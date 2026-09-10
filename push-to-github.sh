@@ -13,7 +13,7 @@ set -e
 cd "$(dirname "$0")"
 
 REPO_NAME="${REPO_NAME:-autofaszination-suite}"
-REPO_DESC="AutoFaszination Performance & B2B Sales Suite — Mitarbeiter-Portal (FastAPI + React), LET26 Chiptuning Vertrieb"
+REPO_DESC="AutoFaszination Performance & B2B Sales Suite V3.1 — Mitarbeiter-Portal «Carbon Cockpit» (FastAPI, offline-fähig), LET26 Chiptuning Vertrieb, Windows/Linux/Android-Starter"
 TOKEN="${GITHUB_TOKEN:-HIER_TOKEN_EINFUEGEN}"
 
 if [ "$TOKEN" = "HIER_TOKEN_EINFUEGEN" ]; then

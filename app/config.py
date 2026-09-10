@@ -2,7 +2,7 @@
 from pathlib import Path
 
 APP_NAME = "AutoFaszination Performance & B2B Sales Suite"
-APP_VERSION = "3.0.0"
+APP_VERSION = "3.1.0"
 
 # ─── Pfade (absolut, unabhängig vom Arbeitsverzeichnis) ─────────────────────
 BASE_DIR = Path(__file__).resolve().parent.parent

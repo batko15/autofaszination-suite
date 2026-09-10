@@ -18,7 +18,17 @@ und Vertriebs-Cockpit.
 
 ---
 
-## Was ist neu in V3?
+## Was ist neu in V3.1?
+
+- **Setup für Handy & Tablet**: neuer One-Click-Starter `start-handy.sh` für Android (Termux) —
+  die Suite läuft damit komplett offline direkt auf dem Handy.
+- **QR-Code-Zugang für iPhone/iPad & Android**: `start-netzwerk.bat` startet die Suite im
+  Netzwerkmodus am Windows-PC und zeigt einen QR-Code — mit der Handy-Kamera scannen,
+  und die Suite öffnet sich auf jedem Gerät im selben WLAN (ideal für die Demo beim Chef).
+- **Termux-kompatible Pakete**: `uvicorn` ohne Zusatz-Binaries — Installation auf Android robust.
+- Server-Starter `run_server.py` mit neuen Optionen `--lan` (Netzwerk freigeben) und `--qr` (QR-Code).
+
+## Was war neu in V3.0?
 
 - **Komplettes Redesign** der Mitarbeiter-Oberfläche als dunkles Automotive-Cockpit:
   Tiefschwarz mit roten Glow-Akzenten, Space-Grotesk-/Inter-Typografie, animierte KPI-Karten,
@@ -135,6 +145,59 @@ pip install -r requirements.txt
 python run_server.py
 ```
 
+## 3b. Installation — Handy (Android)
+
+Die Suite läuft **vollständig offline direkt auf dem Handy** — perfekt für den Aussendienst,
+Clientsessions beim Kunden oder die Präsentation unterwegs. Für Android wird die kostenlose
+App **Termux** (Linux-Terminal) verwendet:
+
+**Schritt 1 — Termux installieren (einmalig)**
+
+Termux aus **F-Droid** installieren: https://f-droid.org/packages/com.termux/
+
+> **Wichtig:** die Play-Store-Version von Termux ist veraltet und funktioniert nicht —
+> unbedingt die F-Droid-Version verwenden.
+
+**Schritt 2 — Suite herunterladen (einmalig)**
+
+In Termux eingeben:
+
+```bash
+pkg install -y git
+git clone https://github.com/batko15/autofaszination-suite.git
+cd autofaszination-suite
+```
+
+*(Ohne Git: Zip von GitHub herunterladen, in Termux mit
+`pkg install -y unzip && unzip autofaszination-suite-main.zip` entpacken.)*
+
+**Schritt 3 — Starten**
+
+```bash
+bash start-handy.sh
+```
+
+Das Skript installiert beim ersten Mal automatisch Python samt Paketen (dauert einige
+Minuten) und startet danach die Suite. Der Browser öffnet sich automatisch mit
+**http://127.0.0.1:8000**. Ab dem zweiten Start ist die Suite in wenigen Sekunden
+bereit — ganz ohne Internet.
+
+> **Tipp für lange Demos:** in den Android-Einstellungen für Termux die
+> Akku-Optimierung deaktivieren, damit Android den Server nicht beendet.
+
+## 3c. iPhone / iPad nutzen
+
+iOS erlaubt keine lokalen Python-Server. Die Suite lässt sich aber in wenigen Sekunden
+vom Windows-PC aus auf dem iPhone öffnen:
+
+1. Am Windows-PC **`start-netzwerk.bat`** doppelklicken
+2. In der Konsole erscheint ein **QR-Code**
+3. Mit der iPhone-Kamera scannen → Suite öffnet sich in Safari
+
+Das funktioniert mit jedem Gerät im selben WLAN (iPhone, iPad, Android-Tablet, zweiter
+Laptop) — ideal, um die Suite im Team oder beim Chef zu demonstrieren, ohne etwas zu
+installieren.
+
 Die Weboberfläche ist danach unter **http://127.0.0.1:8000** erreichbar,
 die API-Dokumentation unter **http://127.0.0.1:8000/docs** (Swagger/OpenAPI).
 
@@ -142,10 +205,13 @@ die API-Dokumentation unter **http://127.0.0.1:8000/docs** (Swagger/OpenAPI).
 
 ```text
 --port 9000       anderen Port verwenden (Standard 8000; belegte Ports werden automatisch umgangen)
---host 0.0.0.0    im Netzwerk freigeben (z. B. für Tablet im Verkaufsraum)
+--lan             im Netzwerk freigeben (Host 0.0.0.0) — Handy/Tablet im selben WLAN
+--qr              QR-Code im Terminal ausgeben (zum Scannen mit der Handy-Kamera)
 --no-browser      Browser nicht automatisch öffnen
 --reload          Entwicklungsmodus mit Auto-Reload
 ```
+
+Unter Windows übernimmt `start-netzwerk.bat` beides automatisch (`--lan --qr`).
 
 Umgebungsvariable `AF_PORT` wird ebenfalls unterstützt.
 
@@ -155,9 +221,13 @@ Umgebungsvariable `AF_PORT` wird ebenfalls unterstützt.
 
 ```text
 autofaszination-suite/
-├── start.bat / start.sh        Ein-Klick-Starter (Windows / Linux+macOS)
-├── run_server.py               Universeller Server-Starter (V3.0.0)
-├── requirements.txt            Python-Abhängigkeiten (FastAPI, ReportLab, …)
+├── start.bat               Ein-Klick-Starter Windows (lokal)
+├── start-netzwerk.bat      Ein-Klick-Starter Windows im LAN-Modus mit QR-Code (Handy/Tablet)
+├── start.sh                Ein-Klick-Starter Linux/macOS
+├── start-handy.sh          Ein-Klick-Starter Android (Termux) — Suite läuft auf dem Handy
+├── push-to-github.bat/.sh  Repo auf GitHub aktualisieren (Token einmal einsetzen)
+├── run_server.py           Universeller Server-Starter (V3.1.0, --lan/--qr)
+├── requirements.txt        Python-Abhängigkeiten (FastAPI, ReportLab, …)
 ├── app/                        FastAPI-Backend + fertige Web-Oberfläche
 │   ├── main.py                 REST-API /api/v1/*, SPA-Auslieferung, Cache-Header
 │   ├── models.py               SQLite-Datenmodell (SQLAlchemy)
@@ -246,6 +316,9 @@ hochgeladen werden. Beispieldateien liegen in `data/beispiele/`.
 | «Python wurde nicht gefunden» (Windows) | Python von python.org installieren, «Add Python to PATH» aktivieren, Fenster neu öffnen |
 | Port 8000 belegt | `start.bat` wählt automatisch einen freien Port — oder `python run_server.py --port 9000` |
 | Paketinstallation schlägt fehl | Internetverbindung prüfen; Firmen-Proxy? Dann `pip install --proxy ... -r requirements.txt` |
+| Handy: Termux-Installation schlägt fehl | F-Droid-Version von Termux verwenden (nicht Play Store!); dann `pkg install -y python rust binutils clang` und erneut `bash start-handy.sh` |
+| Handy: Suite im Browser nicht erreichbar | Läuft `start-handy.sh` noch? Adresse exakt `http://127.0.0.1:8000` eingeben |
+| Handy (QR): Seite lädt nicht | Gleiche WLAN-Netz prüfen; Windows-Firewall erlaubt Python ggf. bestätigen; alternativ `--host 0.0.0.0`-Adresse aus der Konsole abtippen |
 | Oberfläche zeigt alte Version | Seite neu laden (F5) — durch Cache-Busting + No-Cache-Header genügt das |
 | Datenbank zurücksetzen | `data/db.sqlite3` löschen — beim nächsten Start wird alles neu befüllt (Demo-Daten) |
 | Passwort vergessen | Als Admin unter Einstellungen → Mitarbeiter-Verwaltung zurücksetzen; oder `data/db.sqlite3` löschen (Demo-Stand) |

@@ -1,8 +1,9 @@
 @echo off
 REM ============================================================
-REM  AutoFaszination Performance & B2B Sales Suite v2.0
+REM  AutoFaszination Performance & B2B Sales Suite v3.1
 REM  Windows-Starter: Richtet Umgebung ein und startet Server
 REM  Web-Oberflaeche: http://127.0.0.1:8000
+REM  Fuer Handy/Tablet im selben WLAN: start-netzwerk.bat
 REM ============================================================
 chcp 65001 >nul
 setlocal enabledelayedexpansion
@@ -10,6 +11,10 @@ cd /d "%~dp0"
 
 set "PORT=8000"
 if defined AF_PORT set "PORT=%AF_PORT%"
+
+REM --- Netzwerk-Modus (fuer Handy/Tablet im selben WLAN)? ---
+set "SERVER_ARGS="
+if defined AF_LAN set "SERVER_ARGS=--lan --qr"
 
 echo.
 echo ================================================================
@@ -59,8 +64,12 @@ if errorlevel 1 (
 
 REM --- Server starten (oeffnet Browser automatisch) ---
 echo.
-echo Starte Server auf http://127.0.0.1:%PORT% ...
+if defined AF_LAN (
+    echo Starte Server im NETZWERK-MODUS mit QR-Code fuer Handy/Tablet ...
+) else (
+    echo Starte Server auf http://127.0.0.1:%PORT% ...
+)
 echo Browser oeffnet sich automatisch. Beenden mit Strg+C.
 echo.
-".venv\Scripts\python.exe" run_server.py --port %PORT%
+".venv\Scripts\python.exe" run_server.py --port %PORT% %SERVER_ARGS%
 pause
