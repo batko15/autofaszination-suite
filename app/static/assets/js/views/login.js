@@ -41,7 +41,7 @@ window.AFN.views = window.AFN.views || {};
             <div class="card">
               <div class="card-body">
                 <h2>Anmelden</h2>
-                <p class="sub">Mitarbeiter-Portal · AutoFaszination</p>
+                <p class="sub">Mitarbeiter-Portal · AutoFaszination <span class="ver-chip">V4.1</span></p>
 
                 <div class="form-error" id="loginError">
                   ${icons.alert(16)}<span id="loginErrorText"></span>

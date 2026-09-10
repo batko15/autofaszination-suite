@@ -136,6 +136,30 @@ window.AFN = window.AFN || {};
   const PRODUCT_META = {
     DA: 'Diesel-Satz LET26', BA: 'Benzin-Satz LET26', K: 'LETx Hybrid', GA: 'Gaspedal',
   };
+  const APPT_TYPE_META = {
+    testfahrt: { label: 'Testfahrt',      cls: 'badge-blue' },
+    einbau:    { label: 'Einbau',         cls: 'badge-red' },
+    beratung:  { label: 'Beratung',       cls: 'badge-violet' },
+    followup:  { label: 'Follow-up',      cls: 'badge-amber' },
+  };
+  const APPT_STATUS_META = {
+    geplant:      { label: 'Geplant',      cls: 'badge-zinc' },
+    bestaetigt:   { label: 'Bestätigt',    cls: 'badge-blue' },
+    abgeschlossen:{ label: 'Abgeschlossen',cls: 'badge-green' },
+    abgesagt:     { label: 'Abgesagt',     cls: 'badge-red' },
+  };
+  const INVOICE_STATUS_META = {
+    offen:       { label: 'Offen',        cls: 'badge-blue' },
+    bezahlt:     { label: 'Bezahlt',      cls: 'badge-green' },
+    ueberfaellig:{ label: 'Überfällig',  cls: 'badge-red' },
+    storniert:   { label: 'Storniert',    cls: 'badge-zinc' },
+  };
+  const WS_STATUS_META = {
+    geplant:      { label: 'Geplant',              cls: 'badge-zinc' },
+    in_arbeit:    { label: 'In Arbeit',            cls: 'badge-blue' },
+    qualitaet:    { label: 'Qualitätskontrolle',   cls: 'badge-amber' },
+    abgeschlossen:{ label: 'Abgeschlossen',        cls: 'badge-green' },
+  };
 
   function roleLabel(role) { return (ROLE_META[role] || {}).label || role; }
 
@@ -264,6 +288,7 @@ window.AFN = window.AFN || {};
   AFN.ui = {
     icons, fmt, esc, el, els, html, badge,
     STATUS_META, LEAD_META, ROLE_META, PRIORITY_META, FUEL_META, PRODUCT_META,
+    APPT_TYPE_META, APPT_STATUS_META, INVOICE_STATUS_META, WS_STATUS_META,
     roleLabel, initials, copyText,
     toast, drawer, modal,
     spinner, skeletonRows, empty, countUp,

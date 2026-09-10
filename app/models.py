@@ -150,3 +150,78 @@ class Followup(Base):
     done_at: Mapped[Optional[datetime]] = mapped_column(DateTime)
 
     quote: Mapped["Quote"] = relationship(back_populates="followups")
+
+
+class Appointment(Base):
+    """Termin: Testfahrt, Einbau, Beratung oder Follow-up (V4.1)."""
+    __tablename__ = "appointments"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    title: Mapped[str] = mapped_column(String(160))
+    type: Mapped[str] = mapped_column(String(20), index=True)          # testfahrt | einbau | beratung | followup
+    start_at: Mapped[datetime] = mapped_column(DateTime, index=True)
+    duration_min: Mapped[int] = mapped_column(Integer, default=60)
+    status: Mapped[str] = mapped_column(String(20), default="geplant")  # geplant | bestaetigt | abgeschlossen | abgesagt
+    customer_name: Mapped[str] = mapped_column(String(160))
+    customer_email: Mapped[Optional[str]] = mapped_column(String(160))
+    customer_phone: Mapped[Optional[str]] = mapped_column(String(40))
+    location: Mapped[str] = mapped_column(String(80), default="Neuenhof")
+    notes: Mapped[Optional[str]] = mapped_column(Text)
+    vehicle_id: Mapped[Optional[int]] = mapped_column(ForeignKey("vehicles.id"))
+    quote_id: Mapped[Optional[int]] = mapped_column(ForeignKey("quotes.id"))
+    partner_id: Mapped[Optional[int]] = mapped_column(ForeignKey("partners.id"))
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=_now)
+
+    vehicle: Mapped[Optional["Vehicle"]] = relationship()
+    quote: Mapped[Optional["Quote"]] = relationship()
+    partner: Mapped[Optional["Partner"]] = relationship()
+
+
+class Invoice(Base):
+    """Rechnung aus gewonnenen Offerten (V4.1) — MWST 8.1 %."""
+    __tablename__ = "invoices"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    invoice_number: Mapped[str] = mapped_column(String(20), unique=True, index=True)
+    customer_name: Mapped[str] = mapped_column(String(160))
+    customer_email: Mapped[Optional[str]] = mapped_column(String(160))
+    customer_zip: Mapped[Optional[str]] = mapped_column(String(10))
+    customer_city: Mapped[Optional[str]] = mapped_column(String(80))
+    subtotal: Mapped[float] = mapped_column(Float, default=0)
+    vat_amount: Mapped[float] = mapped_column(Float, default=0)
+    total: Mapped[float] = mapped_column(Float, default=0)
+    status: Mapped[str] = mapped_column(String(20), default="offen")   # offen | bezahlt | ueberfaellig | storniert
+    payment_terms: Mapped[int] = mapped_column(Integer, default=30)    # Tage Zahlungsfrist
+    issued_at: Mapped[datetime] = mapped_column(DateTime, default=_now)
+    due_at: Mapped[datetime] = mapped_column(DateTime)
+    paid_at: Mapped[Optional[datetime]] = mapped_column(DateTime)
+    vehicle_id: Mapped[Optional[int]] = mapped_column(ForeignKey("vehicles.id"))
+    quote_id: Mapped[Optional[int]] = mapped_column(ForeignKey("quotes.id"))
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=_now)
+
+    vehicle: Mapped[Optional["Vehicle"]] = relationship()
+    quote: Mapped[Optional["Quote"]] = relationship()
+
+
+class WorkshopOrder(Base):
+    """Werkstatt-Auftrag: Geplant → In Arbeit → QS → Abgeschlossen (V4.1)."""
+    __tablename__ = "workshop_orders"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    order_number: Mapped[str] = mapped_column(String(20), unique=True, index=True)
+    customer_name: Mapped[str] = mapped_column(String(160))
+    customer_phone: Mapped[Optional[str]] = mapped_column(String(40))
+    status: Mapped[str] = mapped_column(String(20), default="geplant", index=True)  # geplant | in_arbeit | qualitaet | abgeschlossen
+    mechanic: Mapped[Optional[str]] = mapped_column(String(120))
+    scheduled_at: Mapped[datetime] = mapped_column(DateTime)
+    install_min: Mapped[int] = mapped_column(Integer, default=15)
+    progress: Mapped[int] = mapped_column(Integer, default=0)          # 0–100 %
+    notes: Mapped[Optional[str]] = mapped_column(Text)
+    vehicle_id: Mapped[Optional[int]] = mapped_column(ForeignKey("vehicles.id"))
+    quote_id: Mapped[Optional[int]] = mapped_column(ForeignKey("quotes.id"))
+    partner_id: Mapped[Optional[int]] = mapped_column(ForeignKey("partners.id"))
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=_now)
+
+    vehicle: Mapped[Optional["Vehicle"]] = relationship()
+    quote: Mapped[Optional["Quote"]] = relationship()
+    partner: Mapped[Optional["Partner"]] = relationship()

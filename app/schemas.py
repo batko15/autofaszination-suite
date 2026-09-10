@@ -255,3 +255,89 @@ class DashboardOut(CamelModel):
     upcoming_followups: List[Dict[str, Any]] = []
     b2b_potential: Dict[str, Any] = {}
     system: Dict[str, Any] = {}
+
+
+# ─── Termine (V4.1) ──────────────────────────────────────────────────────────
+
+class AppointmentIn(BaseModel):
+    title: str
+    type: Literal["testfahrt", "einbau", "beratung", "followup"] = "beratung"
+    start_at: datetime
+    duration_min: int = 60
+    customer_name: str
+    customer_email: Optional[str] = None
+    customer_phone: Optional[str] = None
+    location: str = "Neuenhof"
+    notes: Optional[str] = None
+    vehicle_id: Optional[int] = None
+    quote_id: Optional[int] = None
+
+
+class AppointmentPatchIn(BaseModel):
+    status: Literal["geplant", "bestaetigt", "abgeschlossen", "abgesagt"]
+
+
+class AppointmentOut(CamelModel):
+    id: int
+    title: str
+    type: str
+    start_at: datetime
+    duration_min: int
+    status: str
+    customer_name: str
+    customer_email: Optional[str] = None
+    customer_phone: Optional[str] = None
+    location: str
+    notes: Optional[str] = None
+    vehicle: Optional[Dict[str, Any]] = None
+    quote: Optional[Dict[str, Any]] = None
+    partner: Optional[Dict[str, Any]] = None
+
+
+# ─── Rechnungen (V4.1) ───────────────────────────────────────────────────────
+
+class InvoicePatchIn(BaseModel):
+    status: Literal["offen", "bezahlt", "ueberfaellig", "storniert"]
+
+
+class InvoiceOut(CamelModel):
+    id: int
+    invoice_number: str
+    customer_name: str
+    customer_email: Optional[str] = None
+    customer_zip: Optional[str] = None
+    customer_city: Optional[str] = None
+    subtotal: float
+    vat_amount: float
+    total: float
+    status: str
+    payment_terms: int
+    issued_at: datetime
+    due_at: datetime
+    paid_at: Optional[datetime] = None
+    vehicle: Optional[Dict[str, Any]] = None
+    quote: Optional[Dict[str, Any]] = None
+    overdue: bool = False
+
+
+# ─── Werkstatt (V4.1) ────────────────────────────────────────────────────────
+
+class WorkshopPatchIn(BaseModel):
+    action: Literal["advance", "set-progress"]
+    progress: Optional[int] = None
+
+
+class WorkshopOrderOut(CamelModel):
+    id: int
+    order_number: str
+    customer_name: str
+    customer_phone: Optional[str] = None
+    status: str
+    mechanic: Optional[str] = None
+    scheduled_at: datetime
+    install_min: int
+    progress: int
+    notes: Optional[str] = None
+    vehicle: Optional[Dict[str, Any]] = None
+    partner: Optional[Dict[str, Any]] = None
+    quote: Optional[Dict[str, Any]] = None

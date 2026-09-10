@@ -141,6 +141,19 @@ window.AFN = window.AFN || {};
     followups: params => request('GET', '/followups' + toQuery(params)),
     patchFollowup: (id, done) => request('PATCH', '/followups/' + id, { done }),
 
+    appointments: params => request('GET', '/appointments' + toQuery(params)),
+    createAppointment: payload => request('POST', '/appointments', payload),
+    patchAppointment: (id, status) => request('PATCH', '/appointments/' + id, { status }),
+
+    invoices: () => request('GET', '/invoices'),
+    patchInvoice: (id, payload) => request('PATCH', '/invoices/' + id, payload),
+
+    workshop: () => request('GET', '/workshop'),
+    patchWorkshop: (id, payload) => request('PATCH', '/workshop/' + id, payload),
+
+    reports: () => request('GET', '/reports'),
+    search: q => request('GET', '/search' + toQuery({ q })),
+
     dashboardStats: () => request('GET', '/dashboard/stats'),
     settings: () => request('GET', '/settings'),
     employees: () => request('GET', '/settings/employees'),

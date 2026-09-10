@@ -1,7 +1,8 @@
 """AutoFaszination Suite — Erstbefüllung (Auto-Seed beim ersten Start).
 
-Legt Mitarbeiter-Konten, Fahrzeuge (68), Markenhäuser (415), Demo-Kunden
-und Demo-Offerten inkl. Follow-ups und PDFs an.
+Legt Mitarbeiter-Konten, Fahrzeuge (68), Markenhäuser (415), Demo-Kunden,
+Demo-Offerten inkl. Follow-ups und PDFs sowie — seit V4.1 — Termine,
+Rechnungen und Werkstatt-Aufträge an.
 """
 import json
 from datetime import datetime, timedelta
@@ -10,7 +11,8 @@ from typing import Any, Dict, List
 from sqlalchemy.orm import Session
 
 from .config import DATA_DIR, QUOTES_DIR
-from .models import Customer, Employee, Followup, Partner, Quote, Vehicle
+from .models import (Appointment, Customer, Employee, Followup, Invoice,
+                     Partner, Quote, Vehicle, WorkshopOrder)
 from .security import hash_password, make_salt
 from .services.followups import build_followup_dates
 from .services.geo import is_valid_ch_zip, route_partners
@@ -198,5 +200,139 @@ def seed_if_empty(db: Session) -> None:
     for q in db.query(Quote).filter(Quote.status == "gewonnen").all():
         if q.partner_id:
             q.partner.capacity_used += 1
+    db.flush()
+
+    # ─── V4.1: Termine (2 Wochen, realistische Testfahrten/Einbautermine) ──
+    _seed_appointments(db, customers)
+
+    # ─── V4.1: Rechnungen aus gewonnenen Offerten ──────────────────────────
+    _seed_invoices(db)
+
+    # ─── V4.1: Werkstatt-Aufträge (alle 4 Status-Stufen) ───────────────────
+    _seed_workshop_orders(db)
 
     db.commit()
+
+
+def _seed_appointments(db: Session, customers: List[Customer]) -> None:
+    """12 Termine über aktuelle + nächste Woche verteilt."""
+    today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+
+    # (Kunden-Index, Fahrzeug-Suche, Typ, Tage ab heute, Stunde, Titel, Status, Dauer)
+    specs = [
+        (3,  ("Fiat", "500"),        "testfahrt", 0,  9,  "Testfahrt Fiat 500 — Vorführung", "bestaetigt", 60),
+        (6,  ("Peugeot", "3008"),    "beratung",  0, 11,  "Beratung LET26 Hybrid",            "geplant",    45),
+        (7,  ("Toyota", "C-HR"),     "testfahrt", 0, 14,  "Testfahrt Toyota C-HR",           "geplant",    60),
+        (9,  ("Toyota", "Yaris"),    "einbau",    0, 15,  "Einbau LETx Hybrid Yaris",        "bestaetigt", 90),
+        (0,  ("Toyota", "RAV4"),     "beratung",  1, 10,  "B2B-Beratung Seebach Garage",     "bestaetigt", 60),
+        (4,  ("Opel", "Corsa"),      "einbau",    1, 13,  "Einbau Benzin-Satz Corsa",        "geplant",    75),
+        (10, ("Opel", "Astra"),      "testfahrt", 2, 10,  "Testfahrt Opel Astra",            "geplant",    60),
+        (2,  ("Peugeot", "308"),     "beratung",  3, 9,   "Firmenflotten-Beratung Moser AG", "geplant",    90),
+        (11, ("Citroën", "Berlingo"),"einbau",    4, 8,   "Serien-Einbau Berlingo-Flotte",   "bestaetigt", 240),
+        (1,  ("Toyota", "Corolla"),  "followup",  5, 11,  "Follow-up Daniela Brunner",       "geplant",    30),
+        (5,  ("Citroën", "C4"),      "followup",  7, 14,  "Follow-up Thomas Wyss",           "geplant",    30),
+        (8,  ("Fiat", "Panda"),      "testfahrt", 8, 10,  "Testfahrt Fiat Panda",            "geplant",    45),
+    ]
+
+    for ci, (brand, model_hint), typ, day_off, hour, title, status, dur in specs:
+        vehicle = (
+            db.query(Vehicle)
+            .filter(Vehicle.brand == brand, Vehicle.model.ilike(f"{model_hint}%"))
+            .order_by(Vehicle.hp_orig.desc())
+            .first()
+        )
+        customer = customers[ci] if ci < len(customers) else None
+        quote = None
+        if customer:
+            quote = (
+                db.query(Quote)
+                .filter(Quote.customer_id == customer.id)
+                .order_by(Quote.created_at.desc())
+                .first()
+            )
+        db.add(Appointment(
+            title=title, type=typ,
+            start_at=today + timedelta(days=day_off, hours=hour),
+            duration_min=dur, status=status,
+            customer_name=customer.name if customer else "Beispielkunde",
+            customer_email=customer.email if customer else None,
+            customer_phone=customer.phone if customer else None,
+            location="Neuenhof" if typ != "einbau" or (customer and customer.zip == "5432") else "Partner-Garage",
+            notes=None if typ != "testfahrt" else "Vorführfahrzeug betanken & waschen.",
+            vehicle_id=vehicle.id if vehicle else None,
+            quote_id=quote.id if quote else None,
+        ))
+
+
+def _seed_invoices(db: Session) -> None:
+    """Rechnungen aus gewonnenen Offerten (2 bezahlt, 1 überfällig, 1 offen)."""
+    won_quotes = (
+        db.query(Quote)
+        .filter(Quote.status == "gewonnen")
+        .order_by(Quote.created_at.asc())
+        .all()
+    )
+    if not won_quotes:
+        return
+
+    now = datetime.now()
+    # (Tage zurück ausgestellt, Status, Tage bezahlt nach Ausstellung)
+    plan = [
+        (55, "bezahlt", 12),
+        (27, "bezahlt", 9),
+        (40, "ueberfaellig", None),
+        (12, "offen", None),
+    ]
+
+    for idx, (days_ago, status, paid_after) in enumerate(plan):
+        q = won_quotes[idx % len(won_quotes)]
+        issued = now - timedelta(days=days_ago, hours=2)
+        due = issued + timedelta(days=30)
+        paid_at = issued + timedelta(days=paid_after) if paid_after is not None else None
+        # Rechnungsnummer: RE-2026-0xx
+        inv = Invoice(
+            invoice_number=f"RE-2026-{101 + idx}",
+            customer_name=q.customer.name,
+            customer_email=q.customer.email,
+            customer_zip=q.customer.zip,
+            customer_city=q.customer.city,
+            subtotal=q.subtotal, vat_amount=q.vat_amount, total=q.total,
+            status=status, payment_terms=30,
+            issued_at=issued, due_at=due, paid_at=paid_at,
+            vehicle_id=q.vehicle_id, quote_id=q.id,
+        )
+        db.add(inv)
+
+
+def _seed_workshop_orders(db: Session) -> None:
+    """6 Werkstatt-Aufträge über alle 4 Status-Stufen."""
+    today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    quotes = db.query(Quote).order_by(Quote.created_at.desc()).limit(8).all()
+
+    # (Quote-Index, Status, Fortschritt %, Mechaniker, Tage ab heute, Stunde)
+    specs = [
+        (0, "geplant",     0,   "Luca Berlinger",   1, 8),
+        (2, "geplant",     0,   "Sven Achermann",   2, 10),
+        (3, "in_arbeit",   60,  "Luca Berlinger",   0, 8),
+        (4, "in_arbeit",   35,  "Marco Fontana",    0, 11),
+        (5, "qualitaet",   90,  "Sven Achermann",   -1, 14),
+        (1, "abgeschlossen", 100, "Marco Fontana",  -3, 9),
+    ]
+
+    for qi, status, progress, mechanic, day_off, hour in specs:
+        q = quotes[qi % len(quotes)] if quotes else None
+        vehicle = q.vehicle if q else None
+        db.add(WorkshopOrder(
+            order_number=f"WS-{2001 + qi}",
+            customer_name=q.customer.name if q else "Beispielkunde",
+            customer_phone=q.customer.phone if q else None,
+            status=status, mechanic=mechanic,
+            scheduled_at=today + timedelta(days=day_off, hours=hour),
+            install_min=vehicle.install_min if vehicle else 15,
+            progress=progress,
+            notes="QS-Checkliste: Fehlerspeicher auslesen, Probeaufahrt 15 km."
+                  if status == "qualitaet" else None,
+            vehicle_id=vehicle.id if vehicle else None,
+            quote_id=q.id if q else None,
+            partner_id=q.partner_id if q else None,
+        ))

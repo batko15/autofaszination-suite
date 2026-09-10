@@ -25,7 +25,7 @@ ROOT = Path(__file__).resolve().parent
 os.chdir(ROOT)
 
 APP_NAME = "AutoFaszination Performance & B2B Sales Suite"
-VERSION = "3.1.0"
+VERSION = "4.1.0"
 
 
 def _utf8_console() -> None:

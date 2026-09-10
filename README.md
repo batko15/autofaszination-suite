@@ -1,4 +1,4 @@
-# AutoFaszination Performance & B2B Sales Suite — V3 «Carbon Cockpit»
+# AutoFaszination Performance & B2B Sales Suite — V4.1 «Carbon Cockpit»
 
 **Die digitale Mitarbeiter-Plattform für die LET26-Produktlinie im Schweizer Markenhäuser-Netz —
 komplett neu gestaltet als dunkles Premium-Cockpit.**
@@ -14,11 +14,32 @@ und Vertriebs-Cockpit.
 | Preismodell | AF-Garagen-Preisliste CH/DE 2026 (DA / BA / K / GA) |
 | MwSt.-Abrechnung | **8,1 %** separat ausgewiesen, Porto CHF 14.50 |
 | Follow-up-Automatik | Tag 1 / Tag 3 / Tag 7 gem. LET26-Vertriebs-Guide |
-| Design | **V3 «Carbon Cockpit»** — Schwarz/Rot/Silber, lokal gebündelte Schriften |
+| Design | **V4.1 «Carbon Cockpit»** — Schwarz/Rot/Silber, lokal gebündelte Schriften |
 
 ---
 
-## Was ist neu in V3.1?
+## Was ist neu in V4.1?
+
+- **4 neue Module — jetzt 12 statt 8**:
+  - **Termine** — Wochenkalender (2 Wochen) für Testfahrten, Einbautermine, Beratungen und
+    Follow-ups mit Heute-Highlight, Typ-Filter, Wochen-Navigation und Status-Workflow
+    (Geplant → Bestätigt → Abgeschlossen / Abgesagt).
+  - **Werkstatt** — Auftrags-Kanban mit Status-Flow Geplant → In Arbeit → Qualitätskontrolle →
+    Abgeschlossen, Fortschrittsbalken, Workflow-Stepper, Bühnen-Auslastung (2 Hebebühnen × 8 h).
+  - **Rechnungen** — Offerte → Rechnung: Forderungs-KPIs (bezahlter Umsatz, offene Posten,
+    Überfälliges, Ø Zahlungsdauer), Monats-Umsatz-Chart, Zahlungs-Verbuchung per Klick, Stornierung.
+  - **Berichte** — Konversions-Trichter mit Raten, Deal-Velocity, Volumen/Umsatz-Diagramme,
+    Top-Fahrzeuge & Top-Partner, Kanal-Performance B2C/B2B, Follow-up-Effektivität, CSV-Exporte.
+- **Fahrzeug-Datenbank** — alle 68 Fahrzeuge als durchsuchbare Karten mit Vorher → Nachher-Werten,
+  Marken- und Kraftstoff-Filtern sowie Detail-Drawer.
+- **Command-Palette (Strg + K)** — globale Suche über Fahrzeuge, Kunden/Offerten, Partner,
+  Termine und Rechnungen plus 12 Schnellaktionen, komplett per Tastatur bedienbar.
+- **Live-Badges in der Navigation** — Anzahl überfälliger Follow-ups und heutiger Termine
+  direkt im Seitenmenü (Auto-Refresh alle 60 Sekunden).
+- **5 neue REST-Endpunkte**: `/appointments`, `/invoices`, `/workshop`, `/reports`, `/search`.
+- Demo-Daten erweitert: 12 Termine, 4 Rechnungen, 6 Werkstatt-Aufträge (alle Status-Stufen).
+
+## Was war neu in V3.1?
 
 - **Setup für Handy & Tablet**: neuer One-Click-Starter `start-handy.sh` für Android (Termux) —
   die Suite läuft damit komplett offline direkt auf dem Handy.
@@ -28,7 +49,7 @@ und Vertriebs-Cockpit.
 - **Termux-kompatible Pakete**: `uvicorn` ohne Zusatz-Binaries — Installation auf Android robust.
 - Server-Starter `run_server.py` mit neuen Optionen `--lan` (Netzwerk freigeben) und `--qr` (QR-Code).
 
-## Was war neu in V3.0?
+## Was war neu in V3.0? (Redesign)
 
 - **Komplettes Redesign** der Mitarbeiter-Oberfläche als dunkles Automotive-Cockpit:
   Tiefschwarz mit roten Glow-Akzenten, Space-Grotesk-/Inter-Typografie, animierte KPI-Karten,
@@ -74,6 +95,18 @@ und Vertriebs-Cockpit.
 |:---:|
 | ![Einstellungen](screenshots/13-einstellungen.png) |
 
+| Termine (Wochenkalender) *(neu V4.1)* | Werkstatt (Kanban) *(neu V4.1)* |
+|:---:|:---:|
+| ![Termine](screenshots/14-termine.png) | ![Werkstatt](screenshots/15-werkstatt.png) |
+
+| Rechnungen & Forderungen *(neu V4.1)* | Berichte & Analysen *(neu V4.1)* |
+|:---:|:---:|
+| ![Rechnungen](screenshots/16-rechnungen.png) | ![Berichte](screenshots/17-berichte.png) |
+
+| Fahrzeug-Datenbank *(neu V4.1)* | Command-Palette Strg+K *(neu V4.1)* |
+|:---:|:---:|
+| ![Fahrzeuge](screenshots/18-fahrzeuge.png) | ![Palette](screenshots/19-command-palette.png) |
+
 ---
 
 ## 1. Module der Mitarbeiter-Oberfläche
@@ -85,8 +118,17 @@ und Vertriebs-Cockpit.
 | **Offerten** | Liste mit Status-/Kanal-Filtern und Suche; Detail-Drawer mit Kunden- und Fahrzeugdaten, Positionstabelle mit Rabatten, Totals mit MwSt., Follow-up-Plan, E-Mail-Entwürfen (mit Kopieren-Button) und PDF-Download; Statuswechsel direkt im Drawer |
 | **Kunden (CRM)** | Kundenverwaltung mit Lead-Status-Filter, Kanal-Filter, Suche; Neukunden-Modal; Detail-Drawer mit Stammdaten, Statusänderung, Offerten-Volumen und vollständiger Offerten-Historie |
 | **Partner-Netzwerk** | KPI-Kacheln (total/aktiv/Ansprechpersonen/Priorität A), PLZ-Routing-Tool mit Distanz-Ranking und Marken-Match-Bonus (15 km), Filter nach Kanton/Marke/Priorität, Pagination, CSV-Export |
-| **Aufgaben** | Follow-ups Tag 1/3/7 gruppiert nach überfällig/heute/geplant/erledigt, Telefon-/E-Mail-Skripte aus dem «Leitfaden Mischa» zum Aufklappen und Kopieren, als erledigt markieren (und wieder öffnen) |
+| **Aufgaben** | Follow-ups Tag 1/3/7 gruppiert nach überfällig/heute/geplant/erledigt, Telefon-/E-Mail-Skripte aus dem «Leitfaden Mischa» zum Aufklappen und Kopieren, als erledigt markieren (und wieder öffnen) — Live-Badge mit überfälligen Aufgaben direkt in der Navigation |
+| **Termine** *(neu V4.1)* | Wochenkalender über 2 Wochen (Mo–So) mit Heute-Highlight, Typ-Filter (Testfahrt/Einbau/Beratung/Follow-up), Wochen-Navigation, Detail-Drawer mit Bestätigen/Abschliessen/Absagen, Neuer-Termin-Modal — Live-Badge mit heutigen Terminen in der Navigation |
+| **Werkstatt** *(neu V4.1)* | Auftrags-Kanban mit 4 Status-Spalten (Geplant → In Arbeit → Qualitätskontrolle → Abgeschlossen), Fortschrittsbalken und Schnellsetzung (25/50/75/100 %), Workflow-Stepper im Detail-Drawer, Weiterstellen per Klick, Bühnen-Auslastung (2 Hebebühnen × 8 h = 960 Min./Tag) |
+| **Rechnungen** *(neu V4.1)* | Forderungs-KPIs (bezahlter Umsatz, offene Posten, überfälliger Betrag, Ø Zahlungsdauer), Monats-Umsatz-Chart, Status-Tabs, Detail-Drawer mit Rekapitulation (MwSt. 8.1 %), Zahlungs-Verbuchung und Stornierung, CSV-Export |
+| **Berichte** *(neu V4.1)* | Konversions-Trichter mit Stufen-Raten, Deal-Velocity (Ø Tage bis Entscheidung), Volumen/Umsatz-Diagramme, Top-Fahrzeuge und Top-Partner mit CSV-Export, Kanal-Performance B2C vs. B2B (Win-Rate, Ø Offerte), Follow-up-Effektivitäts-Vergleich (gewonnen vs. übrige) |
+| **Fahrzeug-Datenbank** *(neu V4.1)* | Alle 68 LET26-Fahrzeuge als durchsuchbare Karten mit Vorher → Nachher-Werten (PS/Nm), Fortschrittsbalken der Steigerung, Marken- und Kraftstoff-Filter, Statistik-KPIs (Ø/max. Steigerung), Detail-Drawer, CSV-Export |
 | **Einstellungen** | Firmen-Stammdaten, System-Übersicht, Preisliste 2026, Garantie-Optionen, B2B-Staffeln visualisiert, Mitarbeiter-Verwaltung (Rollen, Passwörter), Datenimport (Excel/JSON) — nur für Administration |
+
+**Command-Palette (Strg + K)** — in jedem Modul verfügbar: globale Suche über Fahrzeuge,
+Kunden/Offerten, Partner-Garagen, Termine und Rechnungen sowie 12 Schnellaktionen,
+vollständig per Tastatur bedienbar (↑ ↓ navigieren, ↵ öffnen).
 
 **Rollen-Konzept:** Administration (volle Rechte inkl. Mitarbeiter-Verwaltung & Import), Vertrieb (alle Vertriebsmodule), Technik.
 
@@ -249,7 +291,7 @@ autofaszination-suite/
 │       └── assets/
 │           ├── css/af.css      «Carbon Cockpit» Design-System (~1'500 Zeilen)
 │           ├── js/             Vanilla-JS-SPA: af-api, af-ui, af-charts,
-│           │                   af-app (Hash-Router) + 8 View-Module
+│           │                   af-app (Hash-Router, Command-Palette) + 12 View-Module
 │           └── fonts/          Inter + Space Grotesk (lokal, offline-fähig)
 ├── data/
 │   ├── vehicles.json           68 Fahrzeuge (Echtdaten)

@@ -787,3 +787,217 @@ table.tbl { width:100%; border-collapse: collapse; }
   .grid-4 { grid-template-columns: 1fr; }
   .page-head { flex-direction: column; align-items: flex-start; }
 }
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   V4.1 — Termine · Rechnungen · Werkstatt · Berichte · Command-Palette
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ── Gemeinsame Bausteine ─────────────────────────────────────────────────── */
+.mini-cap {
+  font-size: 9.5px; font-weight: 700; letter-spacing: .16em;
+  text-transform: uppercase; color: var(--mut); margin-bottom: 10px;
+}
+.note-amber {
+  padding: 13px 16px; border-radius: var(--r-md);
+  background: rgba(255,178,36,.07); border: 1px solid rgba(255,178,36,.22);
+  font-size: 12.5px; color: var(--txt-2); line-height: 1.55;
+}
+.note-amber b { color: var(--amber); }
+.kv-card {
+  padding: 15px 16px; border-radius: var(--r-md);
+  background: var(--bg-2); border: 1px solid var(--line-soft);
+}
+.recap-total {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 13px 16px; border-radius: var(--r-sm);
+  background: linear-gradient(135deg, rgba(226,1,26,.10), rgba(226,1,26,.04));
+  border: 1px solid rgba(226,1,26,.25); font-size: 13px; color: var(--txt-2);
+}
+.recap-total b { font-family: var(--font-d); font-size: 18px; color: var(--txt); }
+.row-overdue td { background: rgba(226,1,26,.045) !important; }
+
+/* ── Termine: Wochen-Grid ─────────────────────────────────────────────────── */
+.week-grid { gap: 12px; }
+.week-day.today { border-color: rgba(226,1,26,.55) !important; box-shadow: 0 0 0 1px rgba(226,1,26,.35), 0 12px 34px -18px rgba(226,1,26,.5); }
+.week-day.weekend { opacity: .72; }
+.apt-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 7px 9px; margin: 4px 0; border-radius: var(--r-sm);
+  background: var(--bg-2); border: 1px solid var(--line-soft);
+  border-left: 3px solid var(--mut); transition: border-color .15s, transform .15s;
+}
+.apt-item:hover { transform: translateX(2px); border-color: var(--line); }
+.apt-item .apt-time { font-size: 10.5px; font-weight: 700; color: var(--txt-2); font-variant-numeric: tabular-nums; }
+.apt-item .apt-dot { width: 7px; height: 7px; border-radius: 99px; background: var(--mut); flex-shrink: 0; }
+.apt-item.t-testfahrt { border-left-color: #5AA7FF; }
+.apt-item.t-testfahrt .apt-dot { background: #5AA7FF; box-shadow: 0 0 9px rgba(90,167,255,.55); }
+.apt-item.t-einbau { border-left-color: var(--red); }
+.apt-item.t-einbau .apt-dot { background: var(--red); box-shadow: 0 0 9px var(--red-glow); }
+.apt-item.t-beratung { border-left-color: #9D7BFF; }
+.apt-item.t-beratung .apt-dot { background: #9D7BFF; box-shadow: 0 0 9px rgba(157,123,255,.55); }
+.apt-item.t-followup { border-left-color: var(--amber); }
+.apt-item.t-followup .apt-dot { background: var(--amber); box-shadow: 0 0 9px rgba(255,178,36,.55); }
+
+/* ── Werkstatt: Kanban + Stepper + Fortschritt ────────────────────────────── */
+.kanban { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; align-items: start; }
+.kanban-col { background: var(--bg-2); border: 1px solid var(--line-soft); border-radius: var(--r-md); overflow: hidden; }
+.kanban-head {
+  display: flex; align-items: center; gap: 8px; padding: 11px 13px;
+  border-bottom: 1px solid var(--line-soft); background: rgba(255,255,255,.02);
+}
+.kanban-head b { font-size: 11.5px; color: var(--txt); letter-spacing: .02em; flex: 1; }
+.kanban-head .kcount {
+  font-size: 10.5px; font-weight: 700; color: var(--txt-2);
+  background: rgba(255,255,255,.06); border-radius: 99px; padding: 2px 8px;
+}
+.kdot { width: 8px; height: 8px; border-radius: 99px; flex-shrink: 0; }
+.kdot.geplant { background: #8B93A7; }
+.kdot.in_arbeit { background: #5AA7FF; box-shadow: 0 0 9px rgba(90,167,255,.6); }
+.kdot.qualitaet { background: var(--amber); box-shadow: 0 0 9px rgba(255,178,36,.6); }
+.kdot.abgeschlossen { background: #2FD87C; box-shadow: 0 0 9px rgba(47,216,124,.6); }
+.kanban-body { padding: 9px; display: flex; flex-direction: column; gap: 8px; min-height: 90px; }
+.kanban-empty { font-size: 11px; color: var(--mut); text-align: center; padding: 18px 0; }
+.kcard {
+  background: var(--surface); border: 1px solid var(--line-soft);
+  border-radius: var(--r-sm); padding: 10px 11px; transition: border-color .15s, transform .15s;
+}
+.kcard:hover { border-color: var(--line); transform: translateY(-1px); }
+
+.wsteps { display: flex; align-items: center; gap: 6px; padding: 13px 15px; border-radius: var(--r-md); background: var(--bg-2); border: 1px solid var(--line-soft); }
+.wstep { display: flex; align-items: center; gap: 7px; min-width: 0; }
+.wstep-dot {
+  width: 24px; height: 24px; border-radius: 99px; flex-shrink: 0;
+  display: inline-flex; align-items: center; justify-content: center;
+  font-size: 10.5px; font-weight: 700; font-family: var(--font-d);
+  background: rgba(255,255,255,.05); color: var(--mut); border: 1px solid var(--line-soft);
+  transition: all .25s;
+}
+.wstep-lbl { font-size: 10px; font-weight: 600; color: var(--mut); letter-spacing: .04em; white-space: nowrap; }
+.wstep.done .wstep-dot { background: rgba(47,216,124,.14); color: #2FD87C; border-color: rgba(47,216,124,.4); }
+.wstep.done .wstep-lbl { color: var(--txt-2); }
+.wstep.now .wstep-dot { background: var(--red); color: #fff; border-color: var(--red); box-shadow: 0 0 14px var(--red-glow); }
+.wstep.now .wstep-lbl { color: var(--txt); }
+.wstep-bar { flex: 1; height: 2px; min-width: 12px; background: var(--line-soft); border-radius: 99px; }
+.wstep-bar.done { background: linear-gradient(90deg, #2FD87C, rgba(47,216,124,.4)); }
+
+.ptrack { height: 7px; border-radius: 99px; background: rgba(255,255,255,.05); overflow: hidden; }
+.pfill {
+  height: 100%; border-radius: 99px;
+  background: linear-gradient(90deg, var(--red-dark), var(--red) 60%, var(--red-2));
+  box-shadow: 0 0 10px var(--red-glow); transition: width .5s cubic-bezier(.2,.8,.2,1);
+}
+
+/* ── Berichte: Trichter & Kanal-Blöcke ────────────────────────────────────── */
+.funnel-row { display: grid; grid-template-columns: 118px 1fr 52px 52px; align-items: center; gap: 10px; padding: 9px 0; }
+.funnel-row .flab { font-size: 11.5px; font-weight: 600; color: var(--txt-2); }
+.funnel-row .ftrack { height: 22px; border-radius: 6px; background: rgba(255,255,255,.04); overflow: hidden; }
+.funnel-row .ffill {
+  height: 100%; border-radius: 6px; transform-origin: left;
+  background: linear-gradient(90deg, var(--red-dark), var(--red) 75%, var(--red-2));
+  animation: afGrowX .7s cubic-bezier(.2,.8,.2,1) both;
+}
+@keyframes afGrowX { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.funnel-row .fval { font-size: 13px; font-weight: 700; color: var(--txt); font-family: var(--font-d); text-align: right; }
+.funnel-row .fconv { font-size: 10.5px; font-weight: 700; text-align: right; font-variant-numeric: tabular-nums; }
+.funnel-row .fconv.good { color: #2FD87C; }
+.funnel-row .fconv.ok { color: var(--amber); }
+.funnel-row .fconv.bad { color: #FF8C9B; }
+.channel-block { padding: 13px 15px; border-radius: var(--r-md); background: var(--bg-2); border: 1px solid var(--line-soft); margin-bottom: 10px; }
+.channel-block:last-child { margin-bottom: 0; }
+
+/* ── Command-Palette (Ctrl+K) ─────────────────────────────────────────────── */
+.palette-veil {
+  position: fixed; inset: 0; z-index: 90;
+  background: rgba(3,4,8,.62); backdrop-filter: blur(5px);
+  display: none; align-items: flex-start; justify-content: center; padding-top: 12vh;
+}
+.palette-veil.open { display: flex; animation: afFade .18s ease both; }
+@keyframes afFade { from { opacity: 0; } to { opacity: 1; } }
+.palette {
+  width: min(620px, 92vw); max-height: 66vh; display: flex; flex-direction: column;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: 14px; overflow: hidden;
+  box-shadow: 0 30px 80px -20px rgba(0,0,0,.75), 0 0 0 1px rgba(226,1,26,.14);
+  animation: afPaletteIn .22s cubic-bezier(.2,.9,.25,1) both;
+}
+@keyframes afPaletteIn { from { opacity: 0; transform: translateY(-14px) scale(.985); } to { opacity: 1; transform: none; } }
+.palette-input-row { display: flex; align-items: center; gap: 11px; padding: 15px 17px; border-bottom: 1px solid var(--line-soft); }
+.palette-input-row input {
+  flex: 1; background: none; border: none; outline: none;
+  font-size: 15px; color: var(--txt); font-family: var(--font-body, inherit);
+}
+.palette-input-row input::placeholder { color: var(--mut); }
+.palette-kbd {
+  font-size: 10px; font-weight: 700; color: var(--mut);
+  border: 1px solid var(--line-soft); border-radius: 5px; padding: 3px 7px;
+  font-family: var(--font-d, monospace); letter-spacing: .04em;
+}
+.palette-body { overflow-y: auto; padding: 8px; }
+.palette-group-cap {
+  font-size: 9.5px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase;
+  color: var(--mut); padding: 10px 10px 5px;
+}
+.palette-item {
+  display: flex; align-items: center; gap: 11px; padding: 9px 10px;
+  border-radius: var(--r-sm); cursor: pointer; border: 1px solid transparent;
+}
+.palette-item:hover, .palette-item.sel { background: rgba(226,1,26,.08); border-color: rgba(226,1,26,.22); }
+.palette-item .pi-ico {
+  width: 30px; height: 30px; border-radius: 8px; flex-shrink: 0;
+  display: inline-flex; align-items: center; justify-content: center;
+  background: var(--bg-2); color: var(--txt-2); border: 1px solid var(--line-soft);
+}
+.palette-item .pi-main { min-width: 0; flex: 1; }
+.palette-item .pi-title { font-size: 12.5px; font-weight: 600; color: var(--txt); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.palette-item .pi-sub { font-size: 10.5px; color: var(--mut); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.palette-foot {
+  display: flex; gap: 14px; padding: 9px 15px; border-top: 1px solid var(--line-soft);
+  font-size: 10px; color: var(--mut); background: rgba(255,255,255,.015);
+}
+.palette-empty { padding: 28px 10px; text-align: center; font-size: 12px; color: var(--mut); }
+
+/* ── Topbar-Suche + Sidebar-Live-Badges ───────────────────────────────────── */
+.topbar-search {
+  display: flex; align-items: center; gap: 8px; cursor: pointer;
+  background: var(--bg-2); border: 1px solid var(--line-soft);
+  border-radius: 9px; padding: 6px 11px; color: var(--mut);
+  font-size: 12px; transition: border-color .15s; min-width: 190px;
+}
+.topbar-search:hover { border-color: var(--line); color: var(--txt-2); }
+.nav-badge {
+  margin-left: auto; font-size: 9.5px; font-weight: 700; font-variant-numeric: tabular-nums;
+  background: var(--red); color: #fff; border-radius: 99px; padding: 1px 7px;
+  box-shadow: 0 0 10px var(--red-glow);
+}
+.nav-badge.zero { background: rgba(255,255,255,.08); color: var(--mut); box-shadow: none; }
+.ver-chip {
+  display: inline-block; font-size: 9px; font-weight: 700; letter-spacing: .1em;
+  color: var(--red-2); border: 1px solid rgba(226,1,26,.3); border-radius: 5px;
+  padding: 2px 6px; font-family: var(--font-d, monospace);
+}
+
+/* ── Responsive ───────────────────────────────────────────────────────────── */
+@media (max-width: 1180px) {
+  .kanban { grid-template-columns: repeat(2, 1fr); }
+  .funnel-row { grid-template-columns: 96px 1fr 46px 46px; }
+}
+@media (max-width: 720px) {
+  .kanban { grid-template-columns: 1fr; }
+  .week-grid { grid-template-columns: 1fr !important; }
+  .wstep-lbl { display: none; }
+  .funnel-row { grid-template-columns: 82px 1fr 40px 40px; gap: 6px; }
+  .topbar-search { min-width: 0; }
+  .topbar-search .ts-label { display: none; }
+}
+
+/* ── Fahrzeug-Datenbank: Karten-Grid ──────────────────────────────────────── */
+.veh-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.vcard {
+  background: var(--surface); border: 1px solid var(--line-soft);
+  border-radius: var(--r-md); padding: 14px 15px;
+  transition: border-color .15s, transform .15s, box-shadow .15s;
+}
+.vcard:hover { border-color: var(--line); transform: translateY(-2px); box-shadow: 0 14px 30px -18px rgba(0,0,0,.6); }
+.mt-2 { margin-top: 10px; }
+@media (max-width: 1180px) { .veh-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 720px) { .veh-grid { grid-template-columns: 1fr; } }
