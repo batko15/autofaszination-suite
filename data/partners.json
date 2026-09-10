@@ -1,0 +1,7574 @@
+[
+  {
+    "company": "AC Automobiles Schweiz AG",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Thurgauerstrasse 35",
+    "zip": "8050",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 800 780 012",
+    "email": "",
+    "website": "https://www.citroen.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Adank Chur AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Emserstrasse 2",
+    "zip": "7007",
+    "city": "Chur",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 257 19 19",
+    "email": "info@adank-chur.ch",
+    "website": "https://www.adank-chur.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Aebi Auto / DS Automobile",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Bernstrasse 38",
+    "zip": "3250",
+    "city": "Lyss",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 387 20 90",
+    "email": "",
+    "website": "https://www.aebi-auto.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Aebi Auto AG / DS Automobile",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Bernstrasse 38",
+    "zip": "3250",
+    "city": "Lyss",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 387 20 90",
+    "email": "",
+    "website": "https://www.aebi-auto.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Andrea Bricalli SA",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Via San Gottardo 31",
+    "zip": "6877",
+    "city": "Coldrerio",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 630 16 71",
+    "email": "info@andreabricalli.ch",
+    "website": "https://www.andreabricalli.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Apoll'otz SA",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Chemin des Treycovagnes",
+    "zip": "2022",
+    "city": "Bevaix",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 847 08 02",
+    "email": "g.hoffmann@apollotz.com",
+    "website": "https://www.apollotz.com",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Auto Cureglia Sagl",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Ivan Casartelli, Geschäftsführer",
+    "street": "Via Cantonale 8",
+    "zip": "6944",
+    "city": "Cureglia",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 223 59 60",
+    "email": "info@autocureglia.com",
+    "website": "https://www.autocureglia.com",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto-Center H.R. Flückiger AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Langenthalstrasse 61",
+    "zip": "4912",
+    "city": "Aarwangen",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 62 922 67 77",
+    "email": "info@citroen-aarwangen.ch",
+    "website": "https://www.citroen-aarwangen.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Autohaus Gertsch AG",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Stefan Gertsch, Inhaber und Geschäftsführer",
+    "street": "Bielstrasse 27",
+    "zip": "3232",
+    "city": "Ins",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 313 22 25",
+    "email": "info@autohausgertsch.ch",
+    "website": "https://www.autohaus-gertsch.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Baldegger Automobile AG",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Marc Baldegger, Geschäftsleitung",
+    "street": "Flawilerstrasse 36",
+    "zip": "9242",
+    "city": "Oberuzwil",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 955 76 76",
+    "email": "",
+    "website": "https://www.baldegger.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Baldegger Automobile AG",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Yves Baldegger, Geschäftsleiter",
+    "street": "Erlachstrasse 3",
+    "zip": "9014",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 274 80 40",
+    "email": "",
+    "website": "https://www.baldegger.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Baumann Appenzell",
+    "brands": [
+      "Citroën",
+      "Peugeot"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Walter Baumann, Geschäftsführer",
+    "street": "Weissbadstrasse 11",
+    "zip": "9050",
+    "city": "Appenzell",
+    "canton": "AI",
+    "country": "CH",
+    "phone": "+41 71 787 14 66",
+    "email": "info@baumann-garage.ch",
+    "website": "https://www.baumann-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Beyeler AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Ipsachstrasse 28",
+    "zip": "2563",
+    "city": "Ipsach",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 332 84 84",
+    "email": "citroenbeyeler@evard.ch",
+    "website": "https://www.garage-beyeler.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Burgseeli AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Max Mattmüller, Geschäftsführer",
+    "street": "Hauptstrasse 990 B",
+    "zip": "3805",
+    "city": "Goldswil",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 33 822 10 43",
+    "email": "",
+    "website": "https://www.garage-burgseeli.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Bymycar Acacias SA - Gland",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Route de Suisse 39",
+    "zip": "1196",
+    "city": "Gland",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 22 999 99 60",
+    "email": "gland@bymycar.ch",
+    "website": "https://www.bymycar.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Catillaz",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Christian Catillaz, Directeur",
+    "street": "Route de Payerne 15",
+    "zip": "1470",
+    "city": "Estavayer-le-Lac",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 663 15 80",
+    "email": "ccatillaz@garagecatillaz.ch",
+    "website": "https://www.garagecatillaz.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Center Wiedikon GmbH",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Steinstrasse 21",
+    "zip": "8003",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 715 43 11",
+    "email": "",
+    "website": "https://www.autocenter-wiedikon.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Auto Chiesa SA",
+    "brands": [
+      "Citroën",
+      "Peugeot"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Via Cantonale 38",
+    "zip": "6595",
+    "city": "Riazzino",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 850 50 10",
+    "email": "info@autochiesa.ch",
+    "website": "https://www.autochiesa.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Christinat Automobiles Sàrl",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Avenue Robert 49",
+    "zip": "2052",
+    "city": "Fontainemelon",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 853 34 77",
+    "email": "garage@cane.ch",
+    "website": "https://www.cane.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "CITAG AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Bildstrasse 3",
+    "zip": "9015",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 313 68 68",
+    "email": "info@autocentersaentis.ch",
+    "website": "https://www.autocentersaentis.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Citroën & DS Automobile",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Chemin de Closalet 19",
+    "zip": "1023",
+    "city": "Crissier",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 631 24 11",
+    "email": "",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage de la Plaine",
+    "brands": [
+      "Citroën",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Route de Porrentruy 30",
+    "zip": "2923",
+    "city": "Courtemaîche",
+    "canton": "JU",
+    "country": "CH",
+    "phone": "+41 32 466 77 47",
+    "email": "",
+    "website": "https://garagedelaplaine.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage de la Plaine Crétin SA",
+    "brands": [
+      "Citroën",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Route de Porrentruy 30",
+    "zip": "2923",
+    "city": "Courtemaîche",
+    "canton": "JU",
+    "country": "CH",
+    "phone": "+41 32 466 77 47",
+    "email": "",
+    "website": "https://garagedelaplaine.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage de Palud Sàrl",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Route de Morlon 47",
+    "zip": "1630",
+    "city": "Bulle",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 912 36 60",
+    "email": "info@garagedepalud.ch",
+    "website": "https://www.garagedepalud.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage des Ilettes Sàrl",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Vincenzo Giglio, Directeur",
+    "street": "Route de Larret 26",
+    "zip": "1870",
+    "city": "Monthey",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 24 471 84 11",
+    "email": "info@garagedesilettes.ch",
+    "website": "https://www.garagedesilettes.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "DS STANS",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Roman Ettlin",
+    "street": "Tottikonstrasse 62",
+    "zip": "6370",
+    "city": "Stans",
+    "canton": "NW",
+    "country": "CH",
+    "phone": "+41 41 610 46 03",
+    "email": "info@garage-flury.ch",
+    "website": "https://www.garage-flury.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "DS STANS / Citroën-DS Automobiles",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Roman Ettlin",
+    "street": "Tottikonstrasse 62",
+    "zip": "6370",
+    "city": "Stans",
+    "canton": "NW",
+    "country": "CH",
+    "phone": "+41 41 610 46 03",
+    "email": "info@garage-flury.ch",
+    "website": "https://www.garage-flury.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "DS STORE BERN",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Philipp Marti",
+    "street": "Belpstrasse 30A",
+    "zip": "3122",
+    "city": "Kehrsatz",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 963 00 00",
+    "email": "info@gmk.ch",
+    "website": "https://www.gmk.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "DS STORE ZÜRICH",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Zürcherstrasse 94",
+    "zip": "8952",
+    "city": "Schlieren",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 733 63 63",
+    "email": "schlieren@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage du Brassus SA",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Pierre Piguet, Inhaber",
+    "street": "Route de France 29",
+    "zip": "1348",
+    "city": "Le Brassus",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 845 50 77",
+    "email": "garage.brassus@sevjnet.ch",
+    "website": "",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Du Centre Philippe Meuwly SA",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Philippe Meuwly, Président",
+    "street": "Chemin du milieu 2",
+    "zip": "1580",
+    "city": "Avenches",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 26 675 12 08",
+    "email": "garageducentre@bluewin.ch",
+    "website": "https://garage-du-centre.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage du Simplon Viscardi et Cie SA",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Fabio Becci, Direction",
+    "street": "Route du Grand-Saint-Bernard 17",
+    "zip": "1880",
+    "city": "Bex",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 24 463 19 02",
+    "email": "garage_viscardi@bluewin.ch",
+    "website": "https://www.garagedusimplon.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Embri Garage AG",
+    "brands": [
+      "Citroën",
+      "Peugeot"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Zürcherstrasse 50",
+    "zip": "8424",
+    "city": "Embrach",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 865 49 62",
+    "email": "info@embri-garage.ch",
+    "website": "https://www.embri-garage.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey AG Autocenter Safenwil",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Emil-Frey-Strasse",
+    "zip": "5745",
+    "city": "Safenwil",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 788 88 88",
+    "email": "autocenter@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey AG Basel-Dreispitz",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Brüglingerstrasse 2",
+    "zip": "4002",
+    "city": "Basel",
+    "canton": "BS",
+    "country": "CH",
+    "phone": "+41 61 335 61 35",
+    "email": "info-basel@emilfrey.ch",
+    "website": "https://www.emilfrey.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey AG Schlieren",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Zürcherstrasse 94",
+    "zip": "8952",
+    "city": "Schlieren",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 733 63 63",
+    "email": "info@emilfrey.ch",
+    "website": "https://www.emilfrey.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey AG ZN Ebikon",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Maurizio Timperio",
+    "street": "Luzernerstrasse 33",
+    "zip": "6030",
+    "city": "Ebikon",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 429 88 48",
+    "email": "maurizio.timperio@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey Automobile AG Moosseedorf",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Gewerbestrasse 17",
+    "zip": "3302",
+    "city": "Moosseedorf",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 510 17 84",
+    "email": "",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey Automobile Moosseedorf",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Michael Peter",
+    "street": "Gewerbestrasse 17",
+    "zip": "3302",
+    "city": "Moosseedorf",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 510 17 84",
+    "email": "michael.peter@emilfreyauto.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey Automobiles SA Renens",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Thierry Duda",
+    "street": "Avenue des Baumettes 1",
+    "zip": "1020",
+    "city": "Renens",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 631 91 39",
+    "email": "Thierry.Duda@emilfreyauto.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey Basel-Dreispitz",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Brüglingerstrasse 2",
+    "zip": "4002",
+    "city": "Basel",
+    "canton": "BS",
+    "country": "CH",
+    "phone": "+41 61 335 63 33",
+    "email": "",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey SA Crissier",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Antonio Lanza",
+    "street": "Chemin du Closalet 19",
+    "zip": "1023",
+    "city": "Crissier",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 631 25 08",
+    "email": "antonio.lanza@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey Zürich Altstetten",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Badenerstrasse 600",
+    "zip": "8048",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 495 23 11",
+    "email": "",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Galliker AG Kriens",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Marco Kohl, Geschäftsführung Filialen",
+    "street": "Sternmattweg 4",
+    "zip": "6010",
+    "city": "Kriens",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 318 02 70",
+    "email": "aulona.gashi@carplanet.ch",
+    "website": "https://www.galliker.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Galliker AG Luzern",
+    "brands": [
+      "Citroën",
+      "Peugeot"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Staldenhof 1",
+    "zip": "6014",
+    "city": "Luzern",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 259 60 50",
+    "email": "",
+    "website": "https://www.galliker.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage-Carrosserie de l'Etoile Rox'otz SA",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Paulo Roxo, Direktor",
+    "street": "Rue Fritz-Courvoisier 54",
+    "zip": "2300",
+    "city": "La Chaux-de-Fonds",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 967 77 77",
+    "email": "info@roxotz.ch",
+    "website": "https://www.roxotz.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garages Hotz SA",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Valentin Hotz, Directeur",
+    "street": "Rue de la Promenade 10",
+    "zip": "2105",
+    "city": "Travers",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 864 61 61",
+    "email": "v.hotz@garages-hotz.ch",
+    "website": "https://www.garages-hotz.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Grossfeld AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Einschlagweg 36",
+    "zip": "4632",
+    "city": "Trimbach",
+    "canton": "SO",
+    "country": "CH",
+    "phone": "+41 62 293 43 20",
+    "email": "",
+    "website": "https://www.grossfeld.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage H. Bühlmann AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Markus Bühlmann, Geschäftsführer / Inhaber",
+    "street": "Steigstrasse 8",
+    "zip": "8406",
+    "city": "Winterthur",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 52 260 07 60",
+    "email": "info@buehlmann.ch",
+    "website": "https://www.buehlmann.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Heller AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Roland Heller, Geschäftsführer",
+    "street": "Wassergrabe 9",
+    "zip": "6210",
+    "city": "Sursee",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 925 63 63",
+    "email": "info@garage-heller.ch",
+    "website": "https://www.garage-heller.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Hoffmann Chur AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Emserstrasse 2",
+    "zip": "7000",
+    "city": "Chur",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 252 33 22",
+    "email": "info@hoffmann-chur.ch",
+    "website": "https://www.hoffmann-chur.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Koller GmbH",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Daniel Sommer, Inhaber & Geschäftsführer",
+    "street": "Lenzburgerstrasse 70",
+    "zip": "5504",
+    "city": "Othmarsingen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 896 23 79",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "Auto Lang AG",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Sonnenwiesenstrasse 26",
+    "zip": "8280",
+    "city": "Kreuzlingen",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 71 444 75 51",
+    "email": "adrian.ruedi@autolang.ch",
+    "website": "https://www.autolang.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Auto Lang AG",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Langfeldstrasse 76",
+    "zip": "8500",
+    "city": "Frauenfeld",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 52 723 29 29",
+    "email": "info@autolang.ch",
+    "website": "https://www.autolang.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "LOGEP AG",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Roger Kunz, Geschäftsführer",
+    "street": "Lischmatt 17",
+    "zip": "4624",
+    "city": "Härkingen",
+    "canton": "SO",
+    "country": "CH",
+    "phone": "+41 62 285 62 80",
+    "email": "",
+    "website": "https://www.logep.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Marti Kehrsatz AG",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Belpstrasse 30A",
+    "zip": "3122",
+    "city": "Kehrsatz",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 963 00 00",
+    "email": "marti@gmk.ch",
+    "website": "https://www.gmk.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Michel GmbH",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Karin Michel, Geschäftsführerin / Verkaufsleitung",
+    "street": "Industriestrasse 8",
+    "zip": "3421",
+    "city": "Lyssach",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 34 445 36 13",
+    "email": "michel@garage-michel.ch",
+    "website": "https://www.garage-michel.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Mistral du Simplon",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Route du Simplon 112",
+    "zip": "1890",
+    "city": "St-Maurice",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 721 60 80",
+    "email": "info.simplon@garage-mistral.ch",
+    "website": "https://www.garage-mistral.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Mistral Martigny SA",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Guy Bruchez, Directeur",
+    "street": "Avenue des Grandes-Maresches 102",
+    "zip": "1920",
+    "city": "Martigny",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 721 70 00",
+    "email": "info@garage-mistral.ch",
+    "website": "https://www.garage-mistral.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Moncor Automobiles SA",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Francis Demierre, Directeur",
+    "street": "Route de Chandolan 6",
+    "zip": "1752",
+    "city": "Villars-sur-Glâne",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 409 78 00",
+    "email": "fdemierre@moncorauto.ch",
+    "website": "https://www.moncor.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Moncor Automobiles SA Peugeot - Citroën",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Francis Demierre, Directeur",
+    "street": "Rte de Chandolan 6",
+    "zip": "1752",
+    "city": "Villars-sur-Glâne",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "Schweiz",
+    "email": "fdemierre@moncorauto.ch",
+    "website": "https://www.moncor.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Pagani & Fils Sàrl Garage-Carrosserie",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Valentin Pagani, Directeur",
+    "street": "Route de Ménières 17",
+    "zip": "1523",
+    "city": "Granges-près-Marnand",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 26 668 26 16",
+    "email": "info@garagepagani.ch",
+    "website": "https://www.garagepagani.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage R. Wallishauser AG",
+    "brands": [
+      "Citroën",
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Breitestrasse 33",
+    "zip": "8106",
+    "city": "Adlikon b. Regensdorf",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 43 388 68 88",
+    "email": "info@wallishauser.ch",
+    "website": "https://www.wallishauser.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Rebmann AG",
+    "brands": [
+      "Citroën"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Erlinsbacherstrasse 3",
+    "zip": "5000",
+    "city": "Aarau",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 835 60 60",
+    "email": "info@rebmann-ag.ch",
+    "website": "https://www.rebmann-ag.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "rutsch.swiss AG – Touring Garage Rutsch",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Schermenweg 153",
+    "zip": "3072",
+    "city": "Ostermundigen",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 930 03 33",
+    "email": "",
+    "website": "https://rutsch.swiss/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "San Paolo Car SA",
+    "brands": [
+      "Citroën",
+      "DS"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "Stefano Bassi, Direttore",
+    "street": "Via S. Gottardo 120",
+    "zip": "6500",
+    "city": "Bellinzona",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 829 00 00",
+    "email": "info@sanpaolocar.ch",
+    "website": "https://www.sanpaolocar.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Suter AG",
+    "brands": [
+      "Citroën",
+      "Peugeot"
+    ],
+    "primaryBrand": "Citroën",
+    "contactPerson": "",
+    "street": "Hauptstrasse 276",
+    "zip": "3852",
+    "city": "Ringgenberg",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 33 826 00 60",
+    "email": "info@garage-suter.ch",
+    "website": "https://www.garage-suter.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Aebi Auto - DS Automobile",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Bernstrasse 38",
+    "zip": "3250",
+    "city": "Lyss",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 387 20 90",
+    "email": "",
+    "website": "https://www.aebi-auto.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "AHG-Cars Biel AG",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Bözingenstrasse 100",
+    "zip": "2502",
+    "city": "Biel/Bienne",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 341 55 66",
+    "email": "biel@ahg-cars.ch",
+    "website": "https://www.ahg-cars.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Auto-Center Thalwil",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Gewerbestrasse 18A",
+    "zip": "8800",
+    "city": "Thalwil",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 725 32 94",
+    "email": "info@auto-centerthalwil.ch",
+    "website": "",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGE DS",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "Dusan Stevic, Inhaber",
+    "street": "Zone Industrielle Les Russilles",
+    "zip": "1443",
+    "city": "Villars-sous-Champvent",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 78 874 45 54",
+    "email": "",
+    "website": "https://www.dsautomobiles.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS Automobile GmbH",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Felbenstrasse 14",
+    "zip": "9403",
+    "city": "Goldach",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 79 132 50 50",
+    "email": "",
+    "website": "https://www.dsautomobile-sg.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS Buchser Automobile",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Rösslimattstrasse 46",
+    "zip": "5033",
+    "city": "Buchs",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 79 227 38 75",
+    "email": "",
+    "website": "https://www.dsautomobiles.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS SERVICE at Autohaus Gertsch AG",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "Stefan Gertsch, Inhaber und Geschäftsführer",
+    "street": "Bielstrasse 27",
+    "zip": "3232",
+    "city": "Ins",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 313 22 25",
+    "email": "info@autohausgertsch.ch",
+    "website": "https://www.autohausgertsch.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "DS SERVICE Ostermundigen",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Schermenweg 153",
+    "zip": "3072",
+    "city": "Ostermundigen",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 930 03 33",
+    "email": "ostermundigen@rutsch.swiss",
+    "website": "https://www.rutsch.swiss",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS Store Bern-Kehrsatz",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "Philipp Marti",
+    "street": "Belpstrasse 30A",
+    "zip": "3122",
+    "city": "Kehrsatz",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 963 00 00",
+    "email": "info@gmk.ch",
+    "website": "https://www.gmk.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "DS STORE KULM",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "Roman Faes, Geschäftsführer",
+    "street": "Kirchenfeldstrasse 6",
+    "zip": "5727",
+    "city": "Oberkulm",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 768 20 20",
+    "email": "info@garagefaes.ch",
+    "website": "https://www.garagefaes.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "DS STORE KULM / Garage FAES AG",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "Roman Faes, Geschäftsführer",
+    "street": "Kirchenfeldstrasse 6",
+    "zip": "5727",
+    "city": "Oberkulm",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 768 20 20",
+    "email": "info@garagefaes.ch",
+    "website": "https://www.garagefaes.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "DS STORE MEYRIN - BYMYCAR",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Rue des Voituriers 2",
+    "zip": "1217",
+    "city": "Meyrin",
+    "canton": "GE",
+    "country": "CH",
+    "phone": "+41 22 544 28 86",
+    "email": "meyrin@bymycar.ch",
+    "website": "https://www.bymycar.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS STORE MEYRIN – BYMYCAR",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Rue des Voituriers 2",
+    "zip": "1217",
+    "city": "Meyrin",
+    "canton": "GE",
+    "country": "CH",
+    "phone": "+41 22 544 28 86",
+    "email": "meyrin@bymycar.ch",
+    "website": "https://www.bymycar.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS STORE THALWIL",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Gewerbestrasse 18a",
+    "zip": "8800",
+    "city": "Thalwil",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 725 32 94",
+    "email": "info@auto-centerthalwil.ch",
+    "website": "https://www.dsautomobiles.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS-Performance Cars",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Via Burgaisa 10",
+    "zip": "7013",
+    "city": "Domat/Ems",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 76 682 08 40",
+    "email": "info@ds-performancecars.ch",
+    "website": "https://www.ds-performancecars.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Flury AG",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "Roman Ettlin, Geschäftsführer",
+    "street": "Tottikonstrasse 62",
+    "zip": "6370",
+    "city": "Stans",
+    "canton": "NW",
+    "country": "CH",
+    "phone": "+41 41 610 46 03",
+    "email": "info@garage-flury.ch",
+    "website": "https://www.garage-flury.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Galliker AG Bellach",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Römerstrasse 8",
+    "zip": "4512",
+    "city": "Bellach",
+    "canton": "SO",
+    "country": "CH",
+    "phone": "+41 32 617 44 44",
+    "email": "galliker.bellach@carplanet.ch",
+    "website": "https://www.galliker.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Galliker AG Hochdorf",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Hohenrainstrasse 50",
+    "zip": "6280",
+    "city": "Hochdorf",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 448 35 35",
+    "email": "galliker.hochdorf@carplanet.ch",
+    "website": "https://www.galliker.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Grin SA",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "",
+    "street": "Route de la Gare 1",
+    "zip": "1175",
+    "city": "Lavigny",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 821 40 90",
+    "email": "info@grin.ch",
+    "website": "https://www.grin.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Guex SA",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "Daniel Guex, Administrateur",
+    "street": "Route de Romanel 40",
+    "zip": "1121",
+    "city": "Bremblens",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 823 03 03",
+    "email": "info@garage-guex.ch",
+    "website": "https://www.garage-guex.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Huber Automobile AG - Opel & DS Automobiles",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "Philipp Huber, Inhaber / Geschäftsführer",
+    "street": "Lenzburgerstrasse 8",
+    "zip": "5507",
+    "city": "Mellingen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "Schweiz",
+    "email": "info@huber-automobile.ch",
+    "website": "https://www.huber-automobile.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Sprengi-Garage Auto GmbH Opel",
+    "brands": [
+      "DS"
+    ],
+    "primaryBrand": "DS",
+    "contactPerson": "Christoph Amberg, Geschäftsführer",
+    "street": "Neuenkirchstrasse 25",
+    "zip": "6020",
+    "city": "Emmenbrücke",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "Schweiz",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE ALIZE SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Z.A. Entre Deux Fossaux 5",
+    "zip": "1868",
+    "city": "Collombey",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 24 473 74 64",
+    "email": "info@garage-alize.ch",
+    "website": "https://www.garage-alize.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGE ARENA AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Domenico Jelo, Inhaber/Geschäftsführer",
+    "street": "Weingartenstrasse 70",
+    "zip": "3904",
+    "city": "Naters",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 922 93 50",
+    "email": "info@garage-arena.ch",
+    "website": "https://www.garage-arena.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "AUTO-TRACHSLER AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Lucas Hofer, Geschäftsführer",
+    "street": "Kramenweg 15",
+    "zip": "8645",
+    "city": "Jona",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 55 220 02 00",
+    "email": "jona@autotrachsler.ch",
+    "website": "https://www.autotrachsler.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "AUTOCENTER WINKELN GMBH",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Milan Cechmanek, Geschäftsleitung",
+    "street": "Ikarusstrasse 2",
+    "zip": "9015",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 310 08 40",
+    "email": "info@autocenter-winkeln.ch",
+    "website": "https://www.autocenter-winkeln.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "AUTOMOTIVE BERNASCONI SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Luigi Bernasconi, Inhaber",
+    "street": "Via San Gottardo 143",
+    "zip": "6942",
+    "city": "Savosa-Lugano",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 961 81 81",
+    "email": "info@garagebernasconi.ch",
+    "website": "https://www.automotivebernasconi.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "BAERFUSS AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Michael Steiner, Inhaber",
+    "street": "Gwattstrasse 54",
+    "zip": "3604",
+    "city": "Thun",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 33 334 66 66",
+    "email": "info@baerfuss.ch",
+    "website": "https://www.baerfuss.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "BELWAG AG BERN",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Andreas Luder, Geschäftsführer",
+    "street": "Schermenweg 5",
+    "zip": "3014",
+    "city": "Bern",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 330 18 18",
+    "email": "",
+    "website": "https://www.belwag.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "BERTONI AUTOMOBILI SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Guido Rognoni, Direttore",
+    "street": "Via Delta 11",
+    "zip": "6612",
+    "city": "Ascona",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 791 43 24",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "BIELI GARAGE AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Daniel Bieli, Geschäftsleitung",
+    "street": "Brislachstrasse 3",
+    "zip": "4226",
+    "city": "Breitenbach",
+    "canton": "SO",
+    "country": "CH",
+    "phone": "+41 61 781 23 43",
+    "email": "info@bieli-garage.ch",
+    "website": "https://www.bieli-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "GARAGE BOSSHARDT AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Markus Bosshardt, Geschäftsführer",
+    "street": "Schwerzenbachstrasse 41",
+    "zip": "8117",
+    "city": "Fällanden",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 806 39 39",
+    "email": "info@garage-bosshardt.ch",
+    "website": "https://www.garage-bosshardt.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "GARAGE BOVE SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Gianluca Bove, Directeur Général",
+    "street": "Avenue Adrien-Lachenal 23A",
+    "zip": "1290",
+    "city": "Versoix",
+    "canton": "GE",
+    "country": "CH",
+    "phone": "+41 22 755 12 09",
+    "email": "",
+    "website": "https://www.garage-bove.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGE BURKHALTER SÀRL",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "André Burkhalter, Inhaber",
+    "street": "Rue H.F. Sandoz 3",
+    "zip": "2710",
+    "city": "Tavannes",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 481 24 51",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE CARROZZERIA CICCONE SAGL",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Strada Ponte di Valle 20",
+    "zip": "6964",
+    "city": "Davesco-Soragno",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 942 71 08",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE CARROZZERIA PEMOCAR SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Via Dante Alighieri 20",
+    "zip": "6830",
+    "city": "Chiasso",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 682 01 78",
+    "email": "chiasso@pemocar.ch",
+    "website": "https://www.pemocarchiasso.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGE D'ARIENZO AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Riedgrabenstrasse 3",
+    "zip": "8153",
+    "city": "Rümlang",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 817 18 52",
+    "email": "info@darienzo.ch",
+    "website": "https://www.darienzo.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGE DE PALUD SARL",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Route de Morlon 47",
+    "zip": "1630",
+    "city": "Bulle",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 912 36 60",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE DELL'ARIA GMBH",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Tannenstrasse 112",
+    "zip": "8424",
+    "city": "Embrach",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 865 38 27",
+    "email": "info@dellaria.ch",
+    "website": "https://www.dellaria.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGE DU PASSAGE SÀRL",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Giancarlo Grasso, Geschäftsführer",
+    "street": "Rue du Vieux-Moulin 59",
+    "zip": "2852",
+    "city": "Courtételle",
+    "canton": "JU",
+    "country": "CH",
+    "phone": "+41 32 422 05 23",
+    "email": "info@garage-du-passage.ch",
+    "website": "https://www.garage-du-passage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "GARAGE DU RALLYE PAYERNE SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Route de Bussy",
+    "zip": "1530",
+    "city": "Payerne",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 26 662 02 70",
+    "email": "magasin@garagedurallye.ch",
+    "website": "https://www.garagedurallye.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "EMIL FREY AG, GARAGE ZÜRICH NORD",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Thurgauerstrasse 35",
+    "zip": "8050",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 306 77 77",
+    "email": "zuerichnord@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "EMIL FREY AG, SAFENWIL",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Emil-Frey-Strasse",
+    "zip": "5745",
+    "city": "Safenwil",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 797 29 29",
+    "email": "",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "EMIL FREY SA, CRISSIER",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Chemin de Closalet 19",
+    "zip": "1023",
+    "city": "Crissier",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 631 24 11",
+    "email": "",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGE ERIC BUSSY",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Eric Bussy, Inhaber",
+    "street": "Route d'Yverdon 30",
+    "zip": "1373",
+    "city": "Chavornay",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 24 441 18 37",
+    "email": "eric@garage-bussy.ch",
+    "website": "https://www.garage-bussy.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "FILA GROUPE SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Ch. des Treycovagnes 7-13",
+    "zip": "1400",
+    "city": "Yverdon-les-Bains",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 24 447 27 27",
+    "email": "info@fila-groupe.ch",
+    "website": "https://www.fila-groupe.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "FILA GROUPE SA (FILA Biel-Bienne)",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Chemin du Longcamp 90",
+    "zip": "2504",
+    "city": "Biel/Bienne",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 328 88 08",
+    "email": "info@fila-groupe.ch",
+    "website": "https://www.fila-groupe.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "FILA GROUPE SA (FILA La-Chaux-de-Fonds)",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Bd des Eplatures 51",
+    "zip": "2300",
+    "city": "La Chaux-de-Fonds",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 924 54 44",
+    "email": "info@fila-groupe.ch",
+    "website": "https://www.fila-groupe.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "FILA GROUPE SA (FILA Littoral)",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Rue Eugène-de-Coulon 13",
+    "zip": "2022",
+    "city": "Bevaix",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 520 16 16",
+    "email": "info@fila-groupe.ch",
+    "website": "https://www.fila-groupe.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGE FRYAND AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Kantonsstrasse 30",
+    "zip": "3940",
+    "city": "Steg-Hohtenn",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 932 25 52",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE-CARROSSERIE DU CENTRE BAECHLER & FILS SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Route du Centre 7",
+    "zip": "1720",
+    "city": "Corminboeuf",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 475 18 06",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARASCH 106 AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Stanserstrasse 106",
+    "zip": "6373",
+    "city": "Ennetbürgen",
+    "canton": "NW",
+    "country": "CH",
+    "phone": "+41 41 624 40 24",
+    "email": "",
+    "website": "https://www.garasch106.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGE GAVILLET SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Route de Moudon 30",
+    "zip": "1670",
+    "city": "Ursy",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 21 909 52 62",
+    "email": "info@garagegavillet.ch",
+    "website": "https://www.garagegavillet.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GRAEFLER GARAGE GASSER AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Schweizersbildstrasse 15",
+    "zip": "8207",
+    "city": "Schaffhausen",
+    "canton": "SH",
+    "country": "CH",
+    "phone": "+41 52 687 22 22",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE GRIENBACH AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Franz-Rittmeyer-Weg 5",
+    "zip": "6300",
+    "city": "Zug",
+    "canton": "ZG",
+    "country": "CH",
+    "phone": "+41 41 761 70 65",
+    "email": "info@grienbach.ch",
+    "website": "https://www.grienbach.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "HAEUSERMANN AUTOMOBILE AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Bernerstrasse Nord 188",
+    "zip": "8048",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 435 36 36",
+    "email": "info.zh@haeusermann.com",
+    "website": "https://www.haeusermann.com",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "HAMMER AUTO CENTER AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Philipp Wüest, Leiter Kundendienst",
+    "street": "Rüeggisingerstrasse 61",
+    "zip": "6020",
+    "city": "Emmenbrücke",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 288 88 88",
+    "email": "info@hac.ch",
+    "website": "https://www.hac.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "HERRLIG-GARAGE AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Birmensdorferstrasse 42",
+    "zip": "8142",
+    "city": "Uitikon-Waldegg",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 492 92 00",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "INTER PROMOTION GARAGE DE CHAMPSEC SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Yannick Micheloud, Direktion",
+    "street": "Av. du Grand-Champsec 51",
+    "zip": "1950",
+    "city": "Sion",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 205 63 00",
+    "email": "info@champsec.ch",
+    "website": "https://www.champsec.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "KEIGEL AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Rheinstrasse 69",
+    "zip": "4402",
+    "city": "Frenkendorf",
+    "canton": "BL",
+    "country": "CH",
+    "phone": "+41 61 565 12 21",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE KLAUS",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Mariahilf 23",
+    "zip": "3186",
+    "city": "Düdingen",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 493 27 09",
+    "email": "info@garageklaus.ch",
+    "website": "https://www.garageklaus.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "KRAEHENMANN AUTOCENTER AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Seestrasse 1035",
+    "zip": "8706",
+    "city": "Obermeilen",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 793 21 00",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "LIGA LINDENGUT-GARAGE AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Toggenburgerstrasse 146",
+    "zip": "9501",
+    "city": "Wil",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 929 31 31",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "MANGANI ET FORTE SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Route Cantonale 114",
+    "zip": "1025",
+    "city": "St-Sulpice",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 691 65 96",
+    "email": "info@mfgarage.ch",
+    "website": "https://www.mfgarage.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "AUTO MARGARETHEN AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Lorenz Amiet, Geschäftsleitung",
+    "street": "Margarethenstrasse 79",
+    "zip": "4053",
+    "city": "Basel",
+    "canton": "BS",
+    "country": "CH",
+    "phone": "+41 61 227 55 55",
+    "email": "info@automargarethen.ch",
+    "website": "https://www.automargarethen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "GARAGE MISTRAL MARTIGNY SA GUY BRUCHEZ",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Guy Bruchez, Geschäftsführer",
+    "street": "Av. Grandes-Maresches 102",
+    "zip": "1920",
+    "city": "Martigny",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 721 70 00",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "NEUE CENTRUM GARAGE AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Landstrasse 62/64",
+    "zip": "5436",
+    "city": "Würenlos",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 436 80 60",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "NUFA AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Gewerbeweg 15",
+    "zip": "9490",
+    "city": "Vaduz",
+    "canton": "—",
+    "country": "LI",
+    "phone": "+423 239 19 90",
+    "email": "info@nufa.li",
+    "website": "https://www.nufa.li",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "NUOVA GARAGE GIORGIO SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Via San Gottardo",
+    "zip": "6593",
+    "city": "Cadenazzo",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 850 32 22",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE PEYER AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Weinfelderstrasse 122",
+    "zip": "8580",
+    "city": "Amriswil",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 71 411 11 37",
+    "email": "info@garage-peyer.ch",
+    "website": "https://www.garage-peyer.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "RIGACKER GARAGE HOFFMANN GMBH",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Rigackerstrasse 15",
+    "zip": "5610",
+    "city": "Wohlen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 622 80 04",
+    "email": "info@rigacker.ch",
+    "website": "https://www.rigacker.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "SALIGARI AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Wuhrmattstrasse 16",
+    "zip": "4103",
+    "city": "Bottmingen",
+    "canton": "BL",
+    "country": "CH",
+    "phone": "+41 61 426 96 00",
+    "email": "info@saligari.ch",
+    "website": "https://www.saligari.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "SCHLOSS-GARAGE WINTERTHUR AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Christian Maier, Geschäftsführer",
+    "street": "Wülflingerstr. 227",
+    "zip": "8408",
+    "city": "Winterthur",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 52 222 62 22",
+    "email": "info@schloss-garage.com",
+    "website": "https://www.schloss-garage.com",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "SCHWALLER GARAGE SA",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Alexandre Schwaller, Verwaltungsrat",
+    "street": "Rte des Trois-Sapins 2",
+    "zip": "1772",
+    "city": "Ponthaux/Grolley",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 475 12 77",
+    "email": "info@garageschwaller.ch",
+    "website": "https://www.schwallersa.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "SONNMATT-GARAGE FREI AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Marcel Frei, Geschäftsführer",
+    "street": "Eymattweg 3",
+    "zip": "3506",
+    "city": "Grosshöchstetten",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 711 12 12",
+    "email": "m.frei@sonnmattgarage.ch",
+    "website": "https://www.sonnmattgarage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "SPORT GARAGE BERGER AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Silvio Berger, Inhaber",
+    "street": "Ringstrasse 38",
+    "zip": "7000",
+    "city": "Chur",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 286 60 00",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "SPORT-TECH AUTOMOBILE GMBH",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Hauptstrasse 16",
+    "zip": "8274",
+    "city": "Tägerwilen",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 71 669 17 15",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "TOEDI-GARAGE AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Linth-Escher-Strasse 1",
+    "zip": "8865",
+    "city": "Bilten",
+    "canton": "GL",
+    "country": "CH",
+    "phone": "+41 55 619 62 82",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE TORNISELLO AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Kornweg 17",
+    "zip": "4665",
+    "city": "Oftringen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 789 50 80",
+    "email": "",
+    "website": "https://www.tornisello.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "AUTO VON AH AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "Josef von Ah, Inhaber",
+    "street": "Industriestrasse 25",
+    "zip": "6055",
+    "city": "Alpnach Dorf",
+    "canton": "OW",
+    "country": "CH",
+    "phone": "+41 41 672 72 90",
+    "email": "info@autovonah.ch",
+    "website": "https://www.autovonah.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Y & E CHEVALLEY AUTOMOBILES S.A.",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Route Industrielle 21",
+    "zip": "1806",
+    "city": "St-Légier-La Chiésaz",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 943 10 17",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "GARAGE ZIMMERLI AARAU AG",
+    "brands": [
+      "Fiat"
+    ],
+    "primaryBrand": "Fiat",
+    "contactPerson": "",
+    "street": "Hauptstrasse 1",
+    "zip": "5032",
+    "city": "Aarau",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 837 97 50",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "Aumo Garage AG",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "",
+    "street": "St. Jakob-Strasse 63",
+    "zip": "9000",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 245 09 23",
+    "email": "info@aumogarage.ch",
+    "website": "https://www.aumogarage.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Auto-Zentrum West AG",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "",
+    "street": "Piccardstrasse 1",
+    "zip": "9015",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 311 66 66",
+    "email": "info@az-west.ch",
+    "website": "https://www.az-west.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Autocenter Zimmerli GmbH",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "Marco Bächli, Geschäftsführer",
+    "street": "Bruggerstrasse 47",
+    "zip": "5102",
+    "city": "Rupperswil",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 888 08 08",
+    "email": "buero@auto-zimmerli.com",
+    "website": "https://www.auto-zimmerli.com",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Autozentrum Thomas",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "",
+    "street": "Salisstrasse 7",
+    "zip": "9000",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 79 758 33 99",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "Garage Biedermann AG",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "",
+    "street": "Schaanerstrasse 47",
+    "zip": "9487",
+    "city": "Bendern",
+    "canton": "FL",
+    "country": "LI",
+    "phone": "+423 373 10 05",
+    "email": "info@garage-biedermann.li",
+    "website": "https://www.garage-biedermann.com",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Bodan Garage AG",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "Sandro Bertoldi, Geschäftsführer",
+    "street": "Sternackerstrasse 1",
+    "zip": "9000",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 222 52 22",
+    "email": "info@bodan-garage.ch",
+    "website": "https://www.bodan-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Botsberg-Garage Hess AG",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "Christian Hess, Geschäftsführer",
+    "street": "St. Gallerstrasse 236",
+    "zip": "9200",
+    "city": "Gossau",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 388 40 60",
+    "email": "info@botsberg-garage.ch",
+    "website": "https://www.botsberg-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Germann AG",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "",
+    "street": "Hauptstrasse 37",
+    "zip": "5502",
+    "city": "Hunzenschwil",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 889 22 22",
+    "email": "info@autogermann.ch",
+    "website": "https://www.autogermann.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Masis AG",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "",
+    "street": "Langgasse 79",
+    "zip": "9008",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 245 70 10",
+    "email": "info@garagemasis.ch",
+    "website": "https://www.garagemasis.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Ruedi Fäh AG",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "Daniel Fäh, Geschäftsführer",
+    "street": "Karmaad 11",
+    "zip": "9473",
+    "city": "Gams",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 81 771 24 21",
+    "email": "daniel.faeh@opelgarage-faeh.ch",
+    "website": "https://www.garagefaeh.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Sulz-Garage Studer AG",
+    "brands": [
+      "noch zu verifizieren"
+    ],
+    "primaryBrand": "noch zu verifizieren",
+    "contactPerson": "",
+    "street": "Sulzstrasse 33",
+    "zip": "9403",
+    "city": "Goldach",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 841 14 27",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "Garage + Carrosserie Rüfenacht AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Murtenstrasse 2",
+    "zip": "3203",
+    "city": "Mühleberg",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 754 11 11",
+    "email": "ar@garage-ruefenacht.ch",
+    "website": "https://www.garage-ruefenacht.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage + Carrosserie Schweizer AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Karl Maier, Geschäftsführer",
+    "street": "Stifelwis 11a",
+    "zip": "8132",
+    "city": "Hinteregg",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 984 14 32",
+    "email": "info@schweizergarage.ch",
+    "website": "https://www.schweizergarage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "AHG-Cars Fribourg SA",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Marc Duflon, Key Account Manager",
+    "street": "Route de Villars-Vert 9",
+    "zip": "1752",
+    "city": "Villars-sur-Glâne",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 409 78 00",
+    "email": "m.duflon@ahg-cars.ch",
+    "website": "https://www.ahg-cars.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Aigner AG",
+    "brands": [
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Zürcherstrasse 371",
+    "zip": "8500",
+    "city": "Frauenfeld",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 52 723 21 00",
+    "email": "kundendienst@aigner.ch",
+    "website": "https://www.aigner.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Arnet AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Daniel Baumgartner, Geschäftsführer",
+    "street": "Ettiswilerstrasse 34",
+    "zip": "6130",
+    "city": "Willisau",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 970 21 21",
+    "email": "arnet.willisau@carplanet.ch",
+    "website": "https://www.garage-arnet.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Autonec SA",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "alla Bolla 20",
+    "zip": "6595",
+    "city": "Riazzino",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 791 58 39",
+    "email": "info@autonec.ch",
+    "website": "https://www.autonec.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "BELWAG AG BERN Betrieb Belp",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Viehweidstrasse 12",
+    "zip": "3123",
+    "city": "Belp",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 819 11 55",
+    "email": "christian.ritz@belwag.ch",
+    "website": "https://www.belwag.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "BELWAG AG BERN Betrieb Bümpliz",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Bernstrasse 56",
+    "zip": "3018",
+    "city": "Bern-Bümpliz",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 996 15 15",
+    "email": "buempliz@belwag.ch",
+    "website": "https://www.belwag.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Botsberg-Garage Hess AG",
+    "brands": [
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Christian Hess, Geschäftsführer",
+    "street": "Wilerstrasse 219",
+    "zip": "9230",
+    "city": "Flawil",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 393 50 65",
+    "email": "info@botsberg-garage.ch",
+    "website": "https://www.botsberg-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Brender SA",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Route Aloys-Fauquez 128",
+    "zip": "1018",
+    "city": "Lausanne",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 621 16 16",
+    "email": "info@garagebrender.ch",
+    "website": "https://www.garagebrender.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Brumana Automobili Sagl",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Via Rime 11",
+    "zip": "6850",
+    "city": "Mendrisio",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 210 32 64",
+    "email": "info@brumanaautomobili.ch",
+    "website": "https://www.brumanaautomobili.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Brüniger AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Winterthurerstrasse 7",
+    "zip": "8360",
+    "city": "Eschlikon",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 71 970 06 70",
+    "email": "info@garage-brueniger.ch",
+    "website": "https://www.garage-brueniger.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Bucher AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Danny Krieg, Inhaber",
+    "street": "Kantonsstrasse 82",
+    "zip": "8863",
+    "city": "Buttikon",
+    "canton": "SZ",
+    "country": "CH",
+    "phone": "+41 55 444 17 77",
+    "email": "info@garage-bucher.ch",
+    "website": "https://www.garage-bucher.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Centralgarage Grädel & Cie AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Peter Schmid, Geschäftsführer",
+    "street": "Bernstrasse 7a",
+    "zip": "4950",
+    "city": "Huttwil",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 62 962 34 34",
+    "email": "info@autograedel.ch",
+    "website": "https://www.autograedel.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "City Motors GmbH",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Benjamin Schütze",
+    "street": "Schaffhauserstrasse 373",
+    "zip": "8050",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 311 33 46",
+    "email": "info@citymotors.ch",
+    "website": "https://www.citymotors.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage D. Müller AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Denis Müller",
+    "street": "Steckbornstrasse 61",
+    "zip": "8505",
+    "city": "Pfyn",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 52 765 10 58",
+    "email": "info@muellerpfyn.ch",
+    "website": "https://www.muellerpfyn.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Della Santa SA",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Manuel Della Santa, Direttore",
+    "street": "Via Franco Zorzi 43",
+    "zip": "6500",
+    "city": "Bellinzona",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 821 40 60",
+    "email": "contact@della-santa.com",
+    "website": "https://www.della-santa.com",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Della Santa SA",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Manuel Della Santa, Direttore",
+    "street": "Viale C. Olgiati 25",
+    "zip": "6512",
+    "city": "Giubiasco",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 857 08 88",
+    "email": "",
+    "website": "https://www.della-santa.com",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS automobile und autowerke GmbH",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Schachen 2",
+    "zip": "5722",
+    "city": "Gränichen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 721 53 56",
+    "email": "info@dsautowerke.ch",
+    "website": "https://www.dsautowerke.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS Garage GmbH",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Felsenaustrasse 21",
+    "zip": "7000",
+    "city": "Chur",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 516 50 00",
+    "email": "",
+    "website": "https://www.dsgarage.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Kasernenstrasse 148",
+    "zip": "7007",
+    "city": "Chur",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 258 66 66",
+    "email": "info.chur@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Wuhrstrasse 15",
+    "zip": "7302",
+    "city": "Landquart",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 300 04 70",
+    "email": "",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Ernst Ruckstuhl AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Peter Sonderegger, Betriebsleiter",
+    "street": "Zürichstrasse 29",
+    "zip": "8910",
+    "city": "Affoltern am Albis",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 762 17 17",
+    "email": "affoltern@ruckstuhlgaragen.ch",
+    "website": "https://www.ruckstuhlgaragen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Ernst Ruckstuhl AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Simone Ruckstuhl, Vorsitzende der Geschäftsleitung",
+    "street": "Brunaustrasse 89",
+    "zip": "8002",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 456 34 00",
+    "email": "brunau@ruckstuhlgaragen.ch",
+    "website": "https://www.ruckstuhlgaragen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Ernst Ruckstuhl AG Affoltern a. A.",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Peter Sonderegger, Betriebsleiter",
+    "street": "Zürichstrasse 29",
+    "zip": "8910",
+    "city": "Affoltern am Albis",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 762 17 17",
+    "email": "affoltern@ruckstuhlgaragen.ch",
+    "website": "https://www.ruckstuhlgaragen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Ernst Ruckstuhl AG Zürich",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Simone Ruckstuhl, Vorsitzende der Geschäftsleitung",
+    "street": "Brunaustrasse 89",
+    "zip": "8002",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 456 34 00",
+    "email": "brunau@ruckstuhlgaragen.ch",
+    "website": "https://www.ruckstuhlgaragen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Ernst Ruckstuhl Automobile AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Simone Ruckstuhl, Vorsitzende der Geschäftsleitung",
+    "street": "Brunaustrasse 89",
+    "zip": "8002",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 456 34 00",
+    "email": "",
+    "website": "https://www.ruckstuhlgaragen.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage FAES AG",
+    "brands": [
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Roman Fäs, Verkaufsleiter",
+    "street": "Kirchenfeldstrasse 6",
+    "zip": "5727",
+    "city": "Oberkulm",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 768 20 20",
+    "email": "info@garagefaes.ch",
+    "website": "https://www.garage-faes.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Galliker AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Römerstrasse 8",
+    "zip": "4512",
+    "city": "Bellach",
+    "canton": "SO",
+    "country": "CH",
+    "phone": "+41 32 617 44 44",
+    "email": "galliker.bellach@carplanet.ch",
+    "website": "https://www.galliker.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Galliker AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Hohenrainstrasse 50",
+    "zip": "6280",
+    "city": "Hochdorf",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 448 35 35",
+    "email": "galliker.hochdorf@carplanet.ch",
+    "website": "https://www.galliker.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Grillen-Garage AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Sandro Bliggenstorfer, Geschäftsführer",
+    "street": "Schaffhauserstrasse 70",
+    "zip": "8451",
+    "city": "Kleinandelfingen",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 52 317 13 13",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "Hasler Automobile AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Hauptstrasse 77",
+    "zip": "4316",
+    "city": "Hellikon",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 61 871 04 06",
+    "email": "hasler.opel@bluewin.ch",
+    "website": "",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Heinz Urech AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "René Urech, Geschäftsleitung / Verkauf",
+    "street": "Seetalstrasse 156",
+    "zip": "5705",
+    "city": "Hallwil",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 777 13 35",
+    "email": "info@heinz-urech.ch",
+    "website": "https://www.heinz-urech.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Huber Automobile AG",
+    "brands": [
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Philipp Huber, Inhaber / Geschäftsführer",
+    "street": "Lenzburgerstrasse 8",
+    "zip": "5507",
+    "city": "Mellingen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 481 61 61",
+    "email": "info@huber-automobile.ch",
+    "website": "https://www.huber-automobile.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Hürlimann Inhaber Petito Giovanni",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Giovanni Petito, Inhaber",
+    "street": "Zürichstrasse 38",
+    "zip": "8840",
+    "city": "Einsiedeln",
+    "canton": "SZ",
+    "country": "CH",
+    "phone": "+41 55 418 28 10",
+    "email": "werkstatt@garage-huerlimann.ch",
+    "website": "https://www.garage-huerlimann.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Jürg Hasler AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Oberstrasse 27",
+    "zip": "3360",
+    "city": "Herzogenbuchsee",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 62 961 41 41",
+    "email": "info@garagehasler.ch",
+    "website": "https://www.garagehasler.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Karl Maier AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Seestrasse 95",
+    "zip": "8610",
+    "city": "Uster",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 940 53 46",
+    "email": "info@garage-maier.ch",
+    "website": "https://www.garage-maier.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Maeder",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Roger Jud, Inhaber",
+    "street": "Luzernstrasse 9",
+    "zip": "5634",
+    "city": "Merenschwand",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 664 10 93",
+    "email": "maeder-jud@bluewin.ch",
+    "website": "https://www.garage-maeder.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Matter AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Nina Matter, Geschäftsführerin",
+    "street": "Zürcherstrasse 152",
+    "zip": "5432",
+    "city": "Neuenhof",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 406 28 44",
+    "email": "info@garage-matter.ch",
+    "website": "https://www.garage-matter.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Metropol Garage AG",
+    "brands": [
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Romanshornerstrasse 203",
+    "zip": "8580",
+    "city": "Amriswil",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 71 414 20 00",
+    "email": "info@metropol-garage.ch",
+    "website": "https://www.metropol-garage.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Opel Oberwil",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Frédéric Schürch",
+    "street": "Mühlemattstrasse 24A",
+    "zip": "4104",
+    "city": "Oberwil",
+    "canton": "BL",
+    "country": "CH",
+    "phone": "+41 61 405 11 11",
+    "email": "zentrale@odg-autocenter.ch",
+    "website": "https://www.odg-autocenter.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Rally SA",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Via Remorino 20",
+    "zip": "6648",
+    "city": "Minusio",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 743 33 06",
+    "email": "info@rally-remorino.ch",
+    "website": "https://www.rally-remorino.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Ring Garage AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Markus Leimgruber, Geschäftsführer / Inhaber",
+    "street": "Gewerbestrasse 3",
+    "zip": "5034",
+    "city": "Suhr",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 855 00 70",
+    "email": "info@ring-garage.ch",
+    "website": "https://www.ring-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Ruedi Tinner AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "André Tinner, Geschäftsführer",
+    "street": "Bruggerstrasse 152",
+    "zip": "5400",
+    "city": "Baden",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 221 74 00",
+    "email": "andre.tinner@tinnerag.ch",
+    "website": "https://www.tinnerag.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Schweizer AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "",
+    "street": "Stifelwis 11a",
+    "zip": "8132",
+    "city": "Hinteregg",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 984 14 32",
+    "email": "info@schweizergarage.ch",
+    "website": "https://www.schweizergarage.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Sport Lugano SA",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Giuseppe Akbas, Inhaber",
+    "street": "Via Sonvico 17",
+    "zip": "6952",
+    "city": "Canobbio",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 935 05 60",
+    "email": "info@garagesport.ch",
+    "website": "https://www.garagesport.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Sprengi-Garage Auto GmbH",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Christoph Amberg, Geschäftsführer",
+    "street": "Neuenkirchstrasse 25",
+    "zip": "6020",
+    "city": "Emmenbrücke",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 280 33 89",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "St. Leonhard Garage GmbH",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "José Reimundez, Geschäftsführer",
+    "street": "Bogenstrasse 13",
+    "zip": "9000",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 260 25 55",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "Auto Studer AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Oliver Hürzeler, Technischer Betriebsleiter",
+    "street": "Bern-Zürichstrasse 55",
+    "zip": "4900",
+    "city": "Langenthal",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 62 919 00 66",
+    "email": "reto@auto-studer.ch",
+    "website": "https://www.auto-studer.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Suter AG",
+    "brands": [
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Marco Suter, Geschäftsführer",
+    "street": "Chamerstrasse 50",
+    "zip": "6331",
+    "city": "Hünenberg",
+    "canton": "ZG",
+    "country": "CH",
+    "phone": "+41 41 444 04 04",
+    "email": "info@autosuter.ch",
+    "website": "https://www.autosuter.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Suter AG",
+    "brands": [
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Marco Suter, Geschäftsführer",
+    "street": "Luzernerstrasse 27",
+    "zip": "5643",
+    "city": "Sins",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 41 787 03 33",
+    "email": "info@autosuter.ch",
+    "website": "https://www.autosuter.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Touring Garage & Carrosserie Baur AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Pascal Baur, Geschäftsführer / Inhaber",
+    "street": "Bernstrasse 17",
+    "zip": "8965",
+    "city": "Berikon",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 649 20 30",
+    "email": "pascal.baur@tg-baur.ch",
+    "website": "https://www.tg-baur.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Touring-Garage Malters AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Samuel Zihlmann, Geschäftsführer",
+    "street": "Luzernstrasse 97",
+    "zip": "6102",
+    "city": "Malters",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 497 15 45",
+    "email": "tgvm@quickline.ch",
+    "website": "",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "VM-Cars GmbH",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Fredy von Moos, Geschäftsleitung",
+    "street": "Talstrasse 4",
+    "zip": "6372",
+    "city": "Ennetmoos",
+    "canton": "NW",
+    "country": "CH",
+    "phone": "+41 41 612 03 03",
+    "email": "verkauf@vm-cars.ch",
+    "website": "https://www.vm-cars.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Witschi AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Thomas Witschi, Geschäftsführer",
+    "street": "Heimiswilstrasse 55",
+    "zip": "3400",
+    "city": "Burgdorf",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 34 420 20 40",
+    "email": "thomas.witschi@garagewitschi.ch",
+    "website": "https://www.garagewitschi.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Zil Garage St. Gallen",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Christian Hamm, Betriebsleiter / GL",
+    "street": "Zilstrasse 79",
+    "zip": "9016",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 282 30 40",
+    "email": "zil-garage@hirn.ch",
+    "website": "https://www.zil-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Zil-Garage St. Gallen AG",
+    "brands": [
+      "Opel"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Christian Hamm, Geschäftsführer",
+    "street": "Zilstrasse 79",
+    "zip": "9016",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 282 30 40",
+    "email": "christian.hamm@hirn.ch",
+    "website": "https://www.zil-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Zünd MobilCenter AG",
+    "brands": [
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Stefan Zünd, Leiter Administration / Geschäftsleitung",
+    "street": "Rorschacherstrasse 132",
+    "zip": "9450",
+    "city": "Altstätten",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 757 80 20",
+    "email": "altstaetten@zmcag.ch",
+    "website": "https://www.zuendmobilcenter.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Zünd MobilCenter AG",
+    "brands": [
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Opel",
+    "contactPerson": "Alexander Zünd, Geschäftsführer",
+    "street": "Diepoldsauerstrasse 38",
+    "zip": "9443",
+    "city": "Widnau",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 727 04 04",
+    "email": "widnau@zmcag.ch",
+    "website": "https://www.zuendmobilcenter.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto-Center Durrer AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Ernst Durrer",
+    "street": "Brünigstrasse 37",
+    "zip": "6055",
+    "city": "Alpnach",
+    "canton": "OW",
+    "country": "CH",
+    "phone": "+41 41 672 90 09",
+    "email": "info@auto-centerdurrer.ch",
+    "website": "https://www.auto-centerdurrer.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Autocenter Burkhard AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Adrian Burkhard",
+    "street": "Leenrütimattweg 9",
+    "zip": "4704",
+    "city": "Niederbipp",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 633 17 71",
+    "email": "info@acb32.ch",
+    "website": "https://www.acb32.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Autocentro Carlo Steger SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Via Campagna Adorna 36",
+    "zip": "6852",
+    "city": "Genestrerio",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 641 70 70",
+    "email": "info@carlosteger.ch",
+    "website": "https://www.carlosteger.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Bolzern Koch AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Sladan Peric, Filialleiter",
+    "street": "Schachenweidstrasse 48",
+    "zip": "6030",
+    "city": "Ebikon",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 429 80 40",
+    "email": "bolzern-koch.ebikon@carplanet.ch",
+    "website": "https://www.carplanet.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Bossart AG",
+    "brands": [
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Nebikerstrasse 5",
+    "zip": "6247",
+    "city": "Schötz",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 980 13 18",
+    "email": "info@auto-bossart.ch",
+    "website": "https://www.auto-bossart.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Bruggen Ruhberg Garage AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Urs Thurnherr",
+    "street": "Ruhbergstrasse 34",
+    "zip": "9000",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 277 08 27",
+    "email": "info@autohaus-ruhberg.ch",
+    "website": "https://www.autohaus-ruhberg.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "BYmyCAR Bussigny",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Chemin du Vallon 30",
+    "zip": "1030",
+    "city": "Bussigny",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 633 11 11",
+    "email": "bussigny@bymycar.ch",
+    "website": "https://www.bymycar.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Carrosserie LGT SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "La Colombière 5",
+    "zip": "2900",
+    "city": "Porrentruy",
+    "canton": "JU",
+    "country": "CH",
+    "phone": "+41 32 465 89 00",
+    "email": "m.quiquerez@grandetour.ch",
+    "website": "https://www.grandetour.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage de la Broye Ansermet SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Route de Payerne 8",
+    "zip": "1562",
+    "city": "Corcelles-Payerne",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 26 662 02 80",
+    "email": "",
+    "website": "https://www.garagedelabroye.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "DS STANS - Citroen/DS Automobiles",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Roman Ettlin",
+    "street": "Tottikonstrasse 62",
+    "zip": "6370",
+    "city": "Stans",
+    "canton": "NW",
+    "country": "CH",
+    "phone": "+41 41 610 46 03",
+    "email": "info@garage-flury.ch",
+    "website": "https://www.garage-flury.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage du Mont-Pèlerin",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Route Industrielle 10",
+    "zip": "1806",
+    "city": "St-Légier-La Chiésaz",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 943 32 32",
+    "email": "info@gmpsa.ch",
+    "website": "https://www.garagemontpelerin.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage du Mont-Pèlerin SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Route Industrielle 15",
+    "zip": "1806",
+    "city": "St-Légier-La Chiésaz",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 943 32 32",
+    "email": "info@gmpsa.ch",
+    "website": "https://www.garagemontpelerin.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Elsener AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Samuel Elsener, Geschäftsführer / Inhaber",
+    "street": "St. Gallerstrasse 33",
+    "zip": "8352",
+    "city": "Elsau",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 52 363 11 83",
+    "email": "info@garageelsener.ch",
+    "website": "https://www.garageelsener.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey Adrien-Wyss",
+    "brands": [
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Alexandre Farago",
+    "street": "Route des Acacias 27",
+    "zip": "1227",
+    "city": "Les Acacias",
+    "canton": "GE",
+    "country": "CH",
+    "phone": "+41 22 308 01 11",
+    "email": "alexandre.farago@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Peugeot",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Badenerstrasse 600",
+    "zip": "8048",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 495 23 11",
+    "email": "",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage et Carrosserie Mistral Sion SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Route de la Drague 46",
+    "zip": "1950",
+    "city": "Sion",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 323 39 77",
+    "email": "info@garage-mistral-sion.ch",
+    "website": "https://www.garage-mistral-sion.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Evolution Sagl",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Via Cantonale 15",
+    "zip": "6518",
+    "city": "Gorduno",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 829 24 22",
+    "email": "info@garageevolution.ch",
+    "website": "https://www.garageevolution.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Fischer AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Peter Fischer, Inhaber",
+    "street": "Vorstadtstrasse 39",
+    "zip": "8953",
+    "city": "Dietikon",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 745 10 90",
+    "email": "info@garage-fischer.ch",
+    "website": "https://www.garage-fischer.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Fux AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Hochdorferstrasse 9",
+    "zip": "5646",
+    "city": "Abtwil",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 41 787 14 24",
+    "email": "info@autofux.ch",
+    "website": "https://www.autofux.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Galliker AG Aarburg",
+    "brands": [
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Oltnerstrasse 101",
+    "zip": "4663",
+    "city": "Aarburg",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 787 70 70",
+    "email": "galliker.aarburg@carplanet.ch",
+    "website": "https://www.galliker.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Galliker AG Kriens - Citroën",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Nidfeld, Sternmattweg 4",
+    "zip": "6010",
+    "city": "Kriens",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 318 02 70",
+    "email": "",
+    "website": "https://www.galliker.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "GARAGES HOTZ SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Valentin Hotz, Directeur",
+    "street": "Route de Neuchâtel 30",
+    "zip": "2022",
+    "city": "Bevaix",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 847 08 47",
+    "email": "v.hotz@garages-hotz.ch",
+    "website": "https://www.garages-hotz.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage GEM SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Marc da Costa, Direction",
+    "street": "Rue de Vermont 4",
+    "zip": "1202",
+    "city": "Genève",
+    "canton": "GE",
+    "country": "CH",
+    "phone": "+41 22 734 24 00",
+    "email": "info@gemsa.ch",
+    "website": "https://www.gemsa.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Grandjean Sàrl",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "En Budron D 5",
+    "zip": "1052",
+    "city": "Le Mont-sur-Lausanne",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 652 20 44",
+    "email": "garage.grandjean@bluewin.ch",
+    "website": "",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Greco Nicola SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Via Industrie 2",
+    "zip": "6807",
+    "city": "Taverne",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 945 32 17",
+    "email": "greco.sa@bluewin.ch",
+    "website": "https://www.garage-greco.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Gross Garage Baden AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Roger Küng, Geschäftsführer",
+    "street": "Bruggerstrasse 194",
+    "zip": "5400",
+    "city": "Baden",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 200 90 20",
+    "email": "baden@gross-garage.ch",
+    "website": "https://www.gross-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Gross Garage Wettingen",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Halbartenstrasse 7A",
+    "zip": "5430",
+    "city": "Wettingen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 430 08 88",
+    "email": "",
+    "website": "https://www.gross-garage.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Gross Garage Wohlen AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Antonio Bellaiuto, Geschäftsführer",
+    "street": "Aargauerstrasse 16",
+    "zip": "5610",
+    "city": "Wohlen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 619 18 18",
+    "email": "wohlen@gross-garage.ch",
+    "website": "https://www.gross-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Gysi-Automobile AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Hauptstrasse 9",
+    "zip": "5212",
+    "city": "Hausen bei Brugg",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 460 27 27",
+    "email": "",
+    "website": "https://www.autogysi.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Imholz Autohaus AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Thomas Imholz, Geschäftsführer / Inhaber",
+    "street": "Sinserstrasse 45",
+    "zip": "6330",
+    "city": "Cham",
+    "canton": "ZG",
+    "country": "CH",
+    "phone": "+41 41 780 22 11",
+    "email": "info@imholz-autohaus.ch",
+    "website": "https://www.imholz-autohaus.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Inter Promotion SA Garage Champsec",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Pierre-Alain Micheloud, Directeur",
+    "street": "Av. du Grand-Champsec 51",
+    "zip": "1950",
+    "city": "Sion",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 205 63 00",
+    "email": "pa.micheloud@champsec.ch",
+    "website": "https://www.champsec.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Kunz Automobile AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Samuel Bühlmann, Inhaber",
+    "street": "Worbstrasse 170",
+    "zip": "3073",
+    "city": "Muri bei Bern",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 950 21 11",
+    "email": "info@garage-kunz.ch",
+    "website": "https://www.garage-kunz.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Leiser AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "René Leiser, Geschäftsleitung",
+    "street": "Bernstrasse 19C",
+    "zip": "3250",
+    "city": "Lyss",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 387 70 90",
+    "email": "info@garage-leiser.ch",
+    "website": "https://www.garage-leiser.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Lüscher AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Hauptstrasse 41",
+    "zip": "5037",
+    "city": "Muhen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 723 24 40",
+    "email": "info@garageluescher.ch",
+    "website": "https://www.garageluescher.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Moderne S.A.",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Rue de la Poterne 1",
+    "zip": "1630",
+    "city": "Bulle",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 919 19 19",
+    "email": "office@garagemoderne.ch",
+    "website": "https://www.garagemoderne.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Moderne S.A. Bulle",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Rue de la Poterne 1",
+    "zip": "1630",
+    "city": "Bulle",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 919 19 19",
+    "email": "office@garagemoderne.ch",
+    "website": "https://www.garagemoderne.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Neugut Garage AG",
+    "brands": [
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "René Wenaweser, Geschäftsführer / Verkaufsleiter",
+    "street": "Kanalstrasse 9",
+    "zip": "9490",
+    "city": "Vaduz",
+    "canton": "FL",
+    "country": "LI",
+    "phone": "+423 237 66 88",
+    "email": "info@neugut.li",
+    "website": "https://www.neugut.li",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage NH Automobiles SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Noray Hanceroglu, Direction",
+    "street": "Grand-Rue 101",
+    "zip": "1110",
+    "city": "Morges",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 802 12 12",
+    "email": "info@nh-automobiles.ch",
+    "website": "https://www.nh-automobiles.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "ODG Autocenter",
+    "brands": [
+      "Peugeot",
+      "Opel",
+      "DS"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Frédéric Schürch",
+    "street": "Mühlemattstrasse 24",
+    "zip": "4104",
+    "city": "Oberwil",
+    "canton": "BL",
+    "country": "CH",
+    "phone": "+41 61 405 11 11",
+    "email": "zentrale@odg-autocenter.ch",
+    "website": "https://www.odg-autocenter.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Pierre Combremont",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Route du Vully 73",
+    "zip": "1543",
+    "city": "Grandcour",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 26 667 15 63",
+    "email": "garage.combremont@bluewin.ch",
+    "website": "https://combremont.digitalone.site",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Post-Garage AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Franz Gisler, Inhaber",
+    "street": "Bahnhofstrasse 4",
+    "zip": "6460",
+    "city": "Altdorf",
+    "canton": "UR",
+    "country": "CH",
+    "phone": "+41 41 870 22 05",
+    "email": "",
+    "website": "",
+    "priority": "C",
+    "capacityVehiclesPerMonth": 3
+  },
+  {
+    "company": "Garage Raemy AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Oberlandstrasse 42",
+    "zip": "1719",
+    "city": "Brünisried",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 419 23 13",
+    "email": "info@garage-raemy.ch",
+    "website": "https://www.garage-raemy.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Rais SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Rue Emile-Boéchat 121",
+    "zip": "2800",
+    "city": "Delémont",
+    "canton": "JU",
+    "country": "CH",
+    "phone": "+41 32 422 35 33",
+    "email": "info@garagerais.ch",
+    "website": "https://www.garagerais.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Reuss-Garage Ernst Rütter AG",
+    "brands": [
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Ernst Rütter, Inhaber",
+    "street": "Reuss-Garage 1",
+    "zip": "6038",
+    "city": "Gisikon",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 450 18 19",
+    "email": "info@reuss-garage.ch",
+    "website": "https://www.reuss-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Robbiani Automobili SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Luca Robbiani, Direttore",
+    "street": "Via Lugano 7",
+    "zip": "6982",
+    "city": "Agno",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 612 48 00",
+    "email": "ricezione@robbianiautomobili.ch",
+    "website": "https://www.robbianiautomobili.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Rod SA",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Route de Lausanne 33",
+    "zip": "1610",
+    "city": "Oron-la-Ville",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 907 77 27",
+    "email": "simon.rod@garagerod.ch",
+    "website": "https://garagerod.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "AUTO RUCKSTUHL AG Citroën",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Brünigstrasse 10",
+    "zip": "6056",
+    "city": "Kägiswil",
+    "canton": "OW",
+    "country": "CH",
+    "phone": "+41 41 660 38 64",
+    "email": "info@auto-ruckstuhl.ch",
+    "website": "https://www.auto-ruckstuhl.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Rütli Garage AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Hans Rudolf Schoch, Inhaber & Geschäftsführer",
+    "street": "Zipfelwiesenstrasse 5",
+    "zip": "8305",
+    "city": "Dietlikon",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 833 25 14",
+    "email": "info@ruetligarage.ch",
+    "website": "https://www.ruetli-garage.ch/",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Senn AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Danijel Stambolija, Geschäftsleitung",
+    "street": "Rothenring 13",
+    "zip": "6015",
+    "city": "Luzern",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 260 31 31",
+    "email": "",
+    "website": "https://www.garage-senn.ch/",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Simon Kunz AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Simon Kunz, Inhaber",
+    "street": "Hintergartstrasse 6",
+    "zip": "8479",
+    "city": "Altikon",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 52 336 17 38",
+    "email": "garage@kunz.info",
+    "website": "https://www.garagesimonkunz.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Steiner AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Eystrasse 6",
+    "zip": "3427",
+    "city": "Utzenstorf",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 666 42 31",
+    "email": "info@steiner-automobile.ch",
+    "website": "https://www.steiner-automobile.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Unterdorf Garage AG M. Helfenstein",
+    "brands": [
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Maurus Helfenstein, Geschäftsführer",
+    "street": "Grünmattstrasse 2",
+    "zip": "6032",
+    "city": "Emmen",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 260 80 38",
+    "email": "info@unterdorf-garage-ag.ch",
+    "website": "https://www.unterdorf-garage-ag.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage W. R. Enz AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Burgfelderstrasse 27",
+    "zip": "4055",
+    "city": "Basel",
+    "canton": "BS",
+    "country": "CH",
+    "phone": "+41 61 386 90 20",
+    "email": "info@wrenzag.ch",
+    "website": "https://www.wrenzag.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage W. Ulrich AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Philippe Arnet, Geschäftsleitung / Verkauf",
+    "street": "Solothurnstrasse 4",
+    "zip": "4573",
+    "city": "Lohn-Ammannsegg",
+    "canton": "SO",
+    "country": "CH",
+    "phone": "+41 32 677 17 17",
+    "email": "info@garage-ulrich.ch",
+    "website": "https://www.garage-ulrich.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Zaugg AG",
+    "brands": [
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "Stefan Zaugg, Inhaber",
+    "street": "Hauptstrasse 116",
+    "zip": "3254",
+    "city": "Messen",
+    "canton": "SO",
+    "country": "CH",
+    "phone": "+41 31 765 53 95",
+    "email": "info@garage-zaugg-ag.ch",
+    "website": "https://www.garage-zaugg-ag.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Zollikofer AG",
+    "brands": [
+      "Peugeot"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Rorschacherstrasse 284",
+    "zip": "9016",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 444 26 54",
+    "email": "info@autozollikofer.ch",
+    "website": "https://www.auto-zollikofer.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Auto AG Burgdorf",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Mario Koch, Inhaber/Geschäftsführer",
+    "street": "Kirchbergstrasse 219",
+    "zip": "3400",
+    "city": "Burgdorf",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 34 422 71 31",
+    "email": "info@autoagburgdorf.ch",
+    "website": "https://www.autoagburgdorf.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Aldo Beeli AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Aldo Beeli, Inhaber/Geschäftsführer",
+    "street": "Via Santeri 69",
+    "zip": "7130",
+    "city": "Ilanz",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 925 40 00",
+    "email": "info@aldobeeli.ch",
+    "website": "https://www.aldobeeli.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Allmend Automobile AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Leandro Fernandes, Geschäftsführer",
+    "street": "Zwirnerstrasse 316",
+    "zip": "8041",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 482 32 00",
+    "email": "verkauf@allmendautomobile.ch",
+    "website": "https://www.allmendautomobile.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Ausee-Garage AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Marc Weber, Geschäftsführer",
+    "street": "Riedhofstrasse 2",
+    "zip": "8804",
+    "city": "Au-Wädenswil",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 43 833 11 33",
+    "email": "info@ausee.ch",
+    "website": "https://www.ausee.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto-Center von Rotz",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Karin von Rotz, Vorsitzende der Geschäftsleitung",
+    "street": "Bild / Postfach 11",
+    "zip": "9500",
+    "city": "Wil SG 1",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 913 33 66",
+    "email": "info@vonrotz.ch",
+    "website": "https://www.vonrotz.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto-Service Gaillard SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Ivan Serkine, Directeur",
+    "street": "Z.I. Les Ducats 2",
+    "zip": "1350",
+    "city": "Orbe",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 24 441 52 44",
+    "email": "info@autoserviceorbe.ch",
+    "website": "https://www.autoserviceorbe.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto-Sport 3000 SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Maurice Graf, Direction",
+    "street": "Chemin du Buissons 11",
+    "zip": "2350",
+    "city": "Saignelégier",
+    "canton": "JU",
+    "country": "CH",
+    "phone": "+41 32 951 12 20",
+    "email": "auto-sport.3000@bluewin.ch",
+    "website": "",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Autobahn-Garage Zwahlen & Wieser AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Fred Zwahlen, Geschäftsführer",
+    "street": "Bielstrasse 98",
+    "zip": "3250",
+    "city": "Lyss",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 387 30 30",
+    "email": "info@autobahngarage.ch",
+    "website": "https://www.autobahngarage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Autocity Emil Frey Zürich Nord",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Thurgauerstrasse 35",
+    "zip": "8050",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 306 77 77",
+    "email": "zuerichnord@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Autogarage Ch. Wüest GmbH",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Dominique Longo, Geschäftsinhaber",
+    "street": "Im Vorland 3",
+    "zip": "8580",
+    "city": "Amriswil",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 71 411 20 40",
+    "email": "info@toyota-amriswil.ch",
+    "website": "https://www.toyota-amriswil.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Autogarage Kohler GmbH",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Peter Kohler, Geschäftsführer",
+    "street": "Lenzburgerstrasse 17",
+    "zip": "5507",
+    "city": "Mellingen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 491 16 16",
+    "email": "autogaragekohler@bluewin.ch",
+    "website": "https://www.autogaragekohler.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Automo Corbetti AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Ramona Corbetti, Geschäftsführerin",
+    "street": "Könizstrasse 159",
+    "zip": "3097",
+    "city": "Bern-Liebefeld",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 971 72 72",
+    "email": "info@automo-corbetti.ch",
+    "website": "https://www.automo-corbetti.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Automobile Weiss AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Roger Weiss, Geschäftsführer",
+    "street": "Hauptstrasse 63",
+    "zip": "5085",
+    "city": "Sulz",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 875 16 65",
+    "email": "info@automobileweiss.ch",
+    "website": "https://www.automobileweiss.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage B. Schmid AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Sternenhofstrasse 13",
+    "zip": "4153",
+    "city": "Reinach",
+    "canton": "BL",
+    "country": "CH",
+    "phone": "+41 61 717 95 00",
+    "email": "info@garageschmid.ch",
+    "website": "https://www.garageschmid.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Balmer & Salamin SA Garage d'Anniviers",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "André Balmer, Direction",
+    "street": "Rue du Simplon 10",
+    "zip": "3960",
+    "city": "Sierre",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 455 61 31",
+    "email": "admin@garage-anniviers.ch",
+    "website": "https://www.garage-anniviers.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Bamert AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Pascal Santi, Geschäftsführer",
+    "street": "Zürcherstrasse 99",
+    "zip": "8610",
+    "city": "Uster 1",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 905 20 30",
+    "email": "info@bamert.ch",
+    "website": "https://www.bamert.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Bandieri S.à.r.l.",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Patrick Aeschlimann, Gérant associé",
+    "street": "Rue du Pelaz 13/15",
+    "zip": "1269",
+    "city": "Bassins",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 22 366 18 22",
+    "email": "contact@bandieri.ch",
+    "website": "https://www.bandieri.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Berset SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Sophie Berset, Directrice",
+    "street": "Route des Pralettes 2",
+    "zip": "1723",
+    "city": "Marly 1",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 439 90 00",
+    "email": "nicolas.bruegger@garage-berset.ch",
+    "website": "https://www.garage-berset.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Berset SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Sophie Berset, Directrice",
+    "street": "Impasse Verte 5",
+    "zip": "1635",
+    "city": "La Tour-De-Trême",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 912 71 31",
+    "email": "damien.audergon@garage-berset.ch",
+    "website": "https://www.garage-berset.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Biauto SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Gianni Capoferri, Direttore",
+    "street": "Via Chiasso 21a",
+    "zip": "6710",
+    "city": "Biasca",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 862 51 31",
+    "email": "biauto@bluewin.ch",
+    "website": "",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage BONFANTI SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Roberto Bonfanti, Direttore",
+    "street": "Via Morée 6",
+    "zip": "6850",
+    "city": "Mendrisio",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 646 90 28",
+    "email": "info@garagebonfanti.ch",
+    "website": "https://www.garagebonfanti.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Bucher AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Urs Durrer, Geschäftsführer",
+    "street": "Fadenbrücke 8",
+    "zip": "6374",
+    "city": "Buochs",
+    "canton": "NW",
+    "country": "CH",
+    "phone": "+41 41 624 50 20",
+    "email": "info@auto-bucher.ch",
+    "website": "https://www.auto-bucher.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Burri Olivier SA Garage et Carrosserie",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Michael Burri, Directeur",
+    "street": "Route du Grandval 10",
+    "zip": "2744",
+    "city": "Belprahon",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 493 36 88",
+    "email": "administration@burri-garage.ch",
+    "website": "https://www.burri-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Cadosch AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Jörg Cadosch, Inhaber & Präsident",
+    "street": "Dorf 2",
+    "zip": "9057",
+    "city": "Weissbad",
+    "canton": "AI",
+    "country": "CH",
+    "phone": "+41 71 799 11 31",
+    "email": "garagecadosch@bluewin.ch",
+    "website": "https://www.garage-cadosch.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Carline Automobiles Boisset SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Jean-François Boisset, Directeur des ventes",
+    "street": "Rue du Châble-Bet 38",
+    "zip": "1920",
+    "city": "Martigny 2 Bourg",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 721 65 16",
+    "email": "reception@carlineautomobiles.ch",
+    "website": "https://www.carlineautomobiles.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Carrosserie Gobeli AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Roland Gobeli, Geschäftsführer",
+    "street": "Lenkstrasse 65",
+    "zip": "3775",
+    "city": "Lenk",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 33 733 22 88",
+    "email": "info@garage-gobeli.ch",
+    "website": "https://www.garage-gobeli.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Carrosserie Hänni AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Cederic Hänni, Inhaber",
+    "street": "Mettelnstrasse 20",
+    "zip": "3780",
+    "city": "Gstaad",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 33 744 55 44",
+    "email": "garage@haennigstaad.ch",
+    "website": "https://www.haennigstaad.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Centralgarage Weinfelden AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Walkestrasse 27",
+    "zip": "8570",
+    "city": "Weinfelden",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 71 622 74 74",
+    "email": "annahme@centralgarage-weinfelden.ch",
+    "website": "https://www.centralgarage-weinfelden.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage City AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Ivan Burgener, Inhaber & Verkauf",
+    "street": "Kantonsstrasse 53",
+    "zip": "3930",
+    "city": "Visp",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 946 50 50",
+    "email": "info@garage-city.ch",
+    "website": "https://www.garage-city.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "City-Garage, J.-M. Périat SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Maurice Périat, Directeur-propriétaire",
+    "street": "Route de Coeuve 13",
+    "zip": "2900",
+    "city": "Porrentruy",
+    "canton": "JU",
+    "country": "CH",
+    "phone": "+41 32 466 12 29",
+    "email": "city-garage@bluewin.ch",
+    "website": "",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Dall'Omo GmbH",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Urs Dall'Omo, Geschäftsführer",
+    "street": "Brünigstrasse 32",
+    "zip": "6053",
+    "city": "Alpnachstad",
+    "canton": "OW",
+    "country": "CH",
+    "phone": "+41 41 672 72 62",
+    "email": "info@autodallomo.ch",
+    "website": "https://www.autodallomo.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage de Carignan SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Sylvain Collaud, Direction",
+    "street": "Carignan 2",
+    "zip": "1565",
+    "city": "Vallon",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 667 15 33",
+    "email": "garage@vallon.ch",
+    "website": "https://www.carignan.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage de l'Escale SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "John Angéloz, Administrateur",
+    "street": "Route de Belfaux 5",
+    "zip": "1762",
+    "city": "Givisiez",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 466 10 02",
+    "email": "admin@garage-escale.ch",
+    "website": "https://www.garage-escale.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage de la Petite Corniche Michel Delessert SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Yann Delessert, Directeur",
+    "street": "Route de la Petite Corniche 5",
+    "zip": "1095",
+    "city": "Lutry",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 791 52 65",
+    "email": "info@toyota-lutry.ch",
+    "website": "https://www.toyota-lutry.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage de la Rochette",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Michael Burri, Gérant",
+    "street": "Route de Pierre-Pertuis 22",
+    "zip": "2710",
+    "city": "Tavannes",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 481 52 12",
+    "email": "info@garage-rochette.ch",
+    "website": "https://www.garage-rochette.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage du Saugy Angeloz SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Christine Angéloz, Directrice",
+    "street": "Rue de la Vernie 9",
+    "zip": "1023",
+    "city": "Crissier",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 631 99 31",
+    "email": "info@toyotacrissier.ch",
+    "website": "https://www.garage-saugy.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage du Vernay SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Jean-Daniel Bill, Geschäftsführer",
+    "street": "Chemin du Vernay 10",
+    "zip": "1196",
+    "city": "Gland",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 22 354 07 07",
+    "email": "garage@garageduvernay.ch",
+    "website": "https://www.garageduvernay.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "E. Mattmüller AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Ernst Mattmüller, Geschäftsführer",
+    "street": "Murtenstrasse 33",
+    "zip": "3210",
+    "city": "Kerzers",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 31 755 51 57",
+    "email": "info@garagemattmueller.ch",
+    "website": "https://www.garagemattmueller.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Elsener Garage und Autohandels AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Marc Elsener, Geschäftsführer",
+    "street": "Industrie Süd",
+    "zip": "8755",
+    "city": "Ennenda",
+    "canton": "GL",
+    "country": "CH",
+    "phone": "+41 55 640 66 44",
+    "email": "info@elsener-garage.ch",
+    "website": "https://www.elsener-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Auto Central Zuchwil",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Franz Häfliger, Geschäftsführer",
+    "street": "Langfeldstrasse 1",
+    "zip": "4528",
+    "city": "Zuchwil",
+    "canton": "SO",
+    "country": "CH",
+    "phone": "+41 32 686 21 21",
+    "email": "info-zuchwil@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Autocenter Brüggmoos",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Römerstrasse 11",
+    "zip": "2555",
+    "city": "Brügg BE",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 374 33 33",
+    "email": "biel@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey AG - Autocenter Safenwil",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Emil-Frey-Strasse 4",
+    "zip": "5745",
+    "city": "Safenwil",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 788 88 88",
+    "email": "autocenter@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Emil Frey AG - Autocenter, Bern",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Franz Häfliger, Geschäftsführer",
+    "street": "Milchstrasse 3",
+    "zip": "3072",
+    "city": "Bern-Ostermundigen",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 339 44 44",
+    "email": "autocenterbern@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Autopark St. Gallen",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Jürg Kumschick, Geschäftsführer",
+    "street": "Molkenstrasse 3-7",
+    "zip": "9006",
+    "city": "St. Gallen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 228 64 64",
+    "email": "autopark@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Autowelt Basel-Dreispitz",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Özgür Tango, Geschäftsführer",
+    "street": "Brüglingerstrasse 2",
+    "zip": "4058",
+    "city": "Basel",
+    "canton": "BS",
+    "country": "CH",
+    "phone": "+41 61 335 61 35",
+    "email": "info-basel@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Grüze-Garage",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Stefan Fehr, Geschäftsführer",
+    "street": "Grüzefeldstrasse 65",
+    "zip": "8404",
+    "city": "Winterthur",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 52 234 35 35",
+    "email": "grueze-garage@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Rheintal-Garage",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Thomas Vrabec, Geschäftsführer",
+    "street": "Rossbodenstrasse 2",
+    "zip": "7000",
+    "city": "Chur",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 286 29 29",
+    "email": "info.chur@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Schaffhausen",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Ralph Baldinger, Geschäftsführer",
+    "street": "Gennersbrunnerstrasse 58",
+    "zip": "8207",
+    "city": "Schaffhausen",
+    "canton": "SH",
+    "country": "CH",
+    "phone": "+41 52 511 86 15",
+    "email": "info-schaffhausen@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Seegarage Zollikon-Erlenbach",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Luca Giallella, Geschäftsführer",
+    "street": "Seestrasse 107",
+    "zip": "8703",
+    "city": "Erlenbach",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 395 40 50",
+    "email": "erlenbach@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Sonnenhof-Garage",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Jürg Kumschick, Geschäftsführer",
+    "street": "Schaffhauserstrasse 50",
+    "zip": "8500",
+    "city": "Frauenfeld",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 52 723 68 68",
+    "email": "sonnenhof@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG - Toyota-Zürich",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Christoph Frei, Geschäftsführer",
+    "street": "Zürcherstrasse 94",
+    "zip": "8952",
+    "city": "Schlieren",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 733 63 63",
+    "email": "info@toyota-zh.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey AG Autocenter Luzern-Littau",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Martin Oppliger, Geschäftsführer",
+    "street": "Schachenhof 2",
+    "zip": "6014",
+    "city": "Luzern-Littau",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 259 19 19",
+    "email": "luzern-littau@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey SA - Auto-Centre Nyon",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Adrian Fischer, Directeur",
+    "street": "Route Champ-Colin 1",
+    "zip": "1260",
+    "city": "Nyon 2",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 22 365 16 16",
+    "email": "nyon@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey SA - Centre Automobile aux Vernets",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Urs Burger, Directeur",
+    "street": "Rue François-Dussaud 13",
+    "zip": "1227",
+    "city": "Genève",
+    "canton": "GE",
+    "country": "CH",
+    "phone": "+41 22 308 55 08",
+    "email": "vernets@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey SA - Centre Automobile La Chaux-de-Fonds",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Giuseppe Lucifora, Directeur",
+    "street": "rue Fritz-Courvoisier 66",
+    "zip": "2300",
+    "city": "La Chaux-de-Fonds",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 967 97 77",
+    "email": "chaux-de-fonds@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey SA - Centre Automobiles Romand",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Marc Brupbacher, Directeur",
+    "street": "Chemin de Closalet 19",
+    "zip": "1023",
+    "city": "Crissier",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 631 24 11",
+    "email": "crissier@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey SA Auto-Centro Noranco-Lugano",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Patrick Antonietti, Direttore",
+    "street": "Via Pian Scairolo 52",
+    "zip": "6915",
+    "city": "Noranco-Lugano",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 960 96 96",
+    "email": "noranco@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey SA Centre Automobile Sion",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Marc Brupbacher, Directeur",
+    "street": "Rue de la Dixence 83",
+    "zip": "1950",
+    "city": "Sion 4",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 205 68 68",
+    "email": "centresion@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Emil Frey SA, Centre Automobile St. Légier",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Gérald Bressoud, Directeur",
+    "street": "Route industrielle 10",
+    "zip": "1806",
+    "city": "St. Légier",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 21 943 09 09",
+    "email": "st-legier@emilfrey.ch",
+    "website": "https://www.emilfrey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Erwin Dubler AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Markus Dubler, Geschäftsführer",
+    "street": "Anglikerstrasse 2",
+    "zip": "5610",
+    "city": "Wohlen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 622 24 25",
+    "email": "info@garagedubler.ch",
+    "website": "https://www.garagedubler.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage et Carrosserie de la Glâne Sàrl",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Pierre-Alain Zbinden, Gérant",
+    "street": "Route d'Ursy 46",
+    "zip": "1678",
+    "city": "Siviriez",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 656 12 23",
+    "email": "gar-car.glane@bluewin.ch",
+    "website": "",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Ferrari SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Franco Ferrari-Alfons, Direzione",
+    "street": "Via Lugano 31",
+    "zip": "6500",
+    "city": "Bellinzona",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 825 16 68",
+    "email": "garage.ferrari_sa@bluewin.ch",
+    "website": "",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Fratschöl AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Hannes Wilhalm, Inhaber & Geschäftsführer",
+    "street": "Via da Manaröl 679",
+    "zip": "7550",
+    "city": "Scuol",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 864 99 90",
+    "email": "info@fratschoelscuol.ch",
+    "website": "https://www.fratschoelscuol.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Frey Auto AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Daniel Frey, Inhaber & Geschäftsführer",
+    "street": "Bäraustrasse 101",
+    "zip": "3550",
+    "city": "Langnau im Emmental",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 34 402 60 60",
+    "email": "info@freyauto.ch",
+    "website": "https://www.freyauto.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Frey Unterentfelden GmbH",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Daniel P. Frey, Geschäftsführer",
+    "street": "Aarauerstrasse 351",
+    "zip": "5035",
+    "city": "Unterentfelden",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 723 25 48",
+    "email": "info@garage-frey.ch",
+    "website": "https://www.garage-frey.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage G.C. Clément SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Cédric Clément, Gérant",
+    "street": "Chemin des Artisans 4",
+    "zip": "1580",
+    "city": "Avenches",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 26 675 13 82",
+    "email": "gclement@bluewin.ch",
+    "website": "https://www.garage-clement.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Gachnang Automobiles",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Caroline Piaget, Geschäftsführung",
+    "street": "Chemin du Lieugex 4",
+    "zip": "1860",
+    "city": "Aigle",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 24 468 60 60",
+    "email": "gatoy@swissonline.ch",
+    "website": "",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage-Reichlin AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Peter Reichlin, Inhaber & Geschäftsleiter",
+    "street": "Grepperstrasse 86-92",
+    "zip": "6403",
+    "city": "Küssnacht a.R.",
+    "canton": "SZ",
+    "country": "CH",
+    "phone": "+41 41 854 77 88",
+    "email": "kuessnacht@garage-reichlin.ch",
+    "website": "https://www.garage-reichlin.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage-Reichlin AG - Baar",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Peter Reichlin, Inhaber & Geschäftsleiter",
+    "street": "Altgasse 56",
+    "zip": "6340",
+    "city": "Baar",
+    "canton": "ZG",
+    "country": "CH",
+    "phone": "+41 41 768 66 33",
+    "email": "baar@garage-reichlin.ch",
+    "website": "https://www.garage-reichlin.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Gebrüder Wirth AG - Platzgarage",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Christoph Wirth, Geschäftsführer & Verkauf",
+    "street": "Hauptstrasse 96",
+    "zip": "9430",
+    "city": "St.Margrethen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 744 14 82",
+    "email": "info@autowirth.ch",
+    "website": "https://www.autowirth.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Gebrüder Wirth AG - Wylen-Garage",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Christoph Wirth, Geschäftsführer & Verkauf",
+    "street": "Thalerstrasse 124",
+    "zip": "9404",
+    "city": "Rorschacherberg",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 855 54 54",
+    "email": "info@autowirth.ch",
+    "website": "https://www.autowirth.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Groupe AFH Automobiles Forges SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Laurent Sitbon, Directeur Général",
+    "street": "Bd des Eplatures 59",
+    "zip": "2300",
+    "city": "La Chaux-de-Fonds",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 843 69 69",
+    "email": "infof@groupe-afh.ch",
+    "website": "https://www.groupe-afh.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Groupe AFH Automobiles Hauterive SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Laurent Sitbon, Directeur Général",
+    "street": "Rouges-Terres 57",
+    "zip": "2068",
+    "city": "Hauterive",
+    "canton": "NE",
+    "country": "CH",
+    "phone": "+41 32 756 91 00",
+    "email": "hauterive@groupe-afh.ch",
+    "website": "https://www.groupe-afh.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "H. Koller & Fils S.A.",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "John Koller, Administrateur-Président",
+    "street": "Route de Murist 1",
+    "zip": "1470",
+    "city": "Lully",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 663 12 77",
+    "email": "garageh.koller@bluewin.ch",
+    "website": "https://www.garagehkoller.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Harlacher AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Daniel Harlacher, Inhaber & Geschäftsführer",
+    "street": "Zürichstrasse 7",
+    "zip": "8185",
+    "city": "Winkel bei Bülach",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 872 50 90",
+    "email": "info@garage-harlacher.ch",
+    "website": "https://www.garage-harlacher.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Harlacher AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Daniel Harlacher, Inhaber & Geschäftsführer",
+    "street": "Schleufenbergstrasse 3",
+    "zip": "8180",
+    "city": "Bülach",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 863 70 50",
+    "email": "buelach@garage-harlacher.ch",
+    "website": "https://www.garage-harlacher.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Hebeisen AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Thomas Hebeisen, Geschäftsführer",
+    "street": "Hindelbankstrasse 8",
+    "zip": "3326",
+    "city": "Krauchthal",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 34 411 14 55",
+    "email": "garage.hebeisen@bluewin.ch",
+    "website": "https://www.auto-hebeisen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Helfenstein AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Guido Helfenstein, Geschäftsführer",
+    "street": "Gewerbezone Mülacher 8",
+    "zip": "6024",
+    "city": "Hildisrieden",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 460 26 69",
+    "email": "info@garagehelfenstein.ch",
+    "website": "https://www.garagehelfenstein.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Heller Garage AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Roland Heller, Geschäftsführer",
+    "street": "Dorfgarage 76",
+    "zip": "6142",
+    "city": "Gettnau",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 970 28 88",
+    "email": "info@heller-garage.ch",
+    "website": "https://www.heller-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Hess AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Reto Hess, Inhaber/Geschäftsführer",
+    "street": "Am Sagenbach 14",
+    "zip": "6033",
+    "city": "Buchrain",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 448 10 35",
+    "email": "info@autohess.ch",
+    "website": "https://www.autohess.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Heuberger AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Sacha Heuberger, Geschäftsführer",
+    "street": "Zürcherstrasse 24",
+    "zip": "8853",
+    "city": "Lachen",
+    "canton": "SZ",
+    "country": "CH",
+    "phone": "+41 55 442 17 77",
+    "email": "info@auto-heuberger.ch",
+    "website": "https://www.auto-heuberger.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Härtsch AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Ronar Härtsch, Inhaber & Geschäftsführer",
+    "street": "Hausmattstrasse 3",
+    "zip": "6221",
+    "city": "Rickenbach",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 62 209 61 61",
+    "email": "info@garage-haertsch.ch",
+    "website": "https://www.garage-haertsch.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Illi AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Daniel Illi, Geschäftsführer",
+    "street": "Stallikonerstrasse 85",
+    "zip": "8903",
+    "city": "Birmensdorf",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 737 24 77",
+    "email": "garage@garage-illi.ch",
+    "website": "https://www.garage-illi.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Jean-Pierre Bussard SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Fabrice Maradan, Gérant",
+    "street": "Rue de la Gare-du-Sud 11",
+    "zip": "1627",
+    "city": "Vaulruz",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 912 31 05",
+    "email": "garage.bussard@bluewin.ch",
+    "website": "https://www.garage-bussard.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Jensen AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Lars Jensen, Inhaber & Geschäftsführer",
+    "street": "Ifangstrasse 11",
+    "zip": "8153",
+    "city": "Rümlang",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 817 88 88",
+    "email": "info@jensen.ch",
+    "website": "https://www.jensen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Jörg AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Noel Jörg, Geschäftsführer",
+    "street": "Ziegelbrückstrasse 22",
+    "zip": "8872",
+    "city": "Weesen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 55 616 55 55",
+    "email": "info@garage-joerg.ch",
+    "website": "https://www.garage-joerg.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "K. Flury AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Daniel Flury, Geschäftsführer",
+    "street": "Hubmatt 2",
+    "zip": "6044",
+    "city": "Udligenswil",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 371 04 85",
+    "email": "k.flury@bluewin.ch",
+    "website": "https://www.autocenterflury.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Klosterrüti-Garage AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "David Huser, Geschäftsführer & Inhaber",
+    "street": "Klosterrütistrasse 17",
+    "zip": "5432",
+    "city": "Neuenhof",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 406 19 79",
+    "email": "info@klosterruetigarage.ch",
+    "website": "https://www.klosterruetigarage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Kreuz-Garage Klötzli AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Raphael Schwager, Geschäftsführer",
+    "street": "Oberes Zelgli 12",
+    "zip": "5313",
+    "city": "Klingnau",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 245 56 40",
+    "email": "info@garage-kloetzli.ch",
+    "website": "https://www.garage-kloetzli.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Kunz AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Mathias Kunz, Inhaber & Geschäftsleitung",
+    "street": "Würzacherstrasse 2",
+    "zip": "8493",
+    "city": "Saland",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 52 386 12 22",
+    "email": "info@garagekunz.ch",
+    "website": "https://www.garagekunz.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Lanter AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Philipp Lanter, Inhaber",
+    "street": "Gewerbezentrum Walke 43",
+    "zip": "9100",
+    "city": "Herisau",
+    "canton": "AR",
+    "country": "CH",
+    "phone": "+41 71 351 22 77",
+    "email": "info@autolanter.ch",
+    "website": "https://www.autolanter.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Liechti Automobiles Murten AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Claude Liechti, Inhaber und Geschäftsführer",
+    "street": "Grande Ferme 14",
+    "zip": "3280",
+    "city": "Murten",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 672 97 29",
+    "email": "info@abpgarage.ch",
+    "website": "https://www.liechti-automobiles.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Liechti Automobiles SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Claude Liechti, Inhaber und Direktor",
+    "street": "Route d'Yverdon 44",
+    "zip": "1530",
+    "city": "Payerne",
+    "canton": "VD",
+    "country": "CH",
+    "phone": "+41 26 660 50 50",
+    "email": "info@liechti-automobiles.ch",
+    "website": "https://www.liechti-automobiles.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Madrisa-Garage GmbH",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Fabian Rüedi, Geschäftsführer",
+    "street": "Madrisastrasse 3",
+    "zip": "7252",
+    "city": "Klosters-Dorf",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 422 35 35",
+    "email": "office@madrisa-garage.ch",
+    "website": "https://www.madrisa-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "MARAG Garagen AG - Toffen",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Ruedi Marti, Geschäftsleitung und Inhaber",
+    "street": "Belpbergstrasse 3 + 5",
+    "zip": "3125",
+    "city": "Toffen",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 819 25 45",
+    "email": "toffen@marag-garagen.ch",
+    "website": "https://www.marag-garagen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "MARAG Garagen AG - Wabern",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Ruedi Marti, Geschäftsleitung und Inhaber",
+    "street": "Seftigenstrasse 198",
+    "zip": "3084",
+    "city": "Wabern",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 960 10 20",
+    "email": "wabern@marag-garagen.ch",
+    "website": "https://www.marag-garagen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Menzi AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Roger Menzi, Geschäftsführer/Inhaber",
+    "street": "Mürtschenstrasse 7",
+    "zip": "8630",
+    "city": "Rüti",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 55 240 25 25",
+    "email": "info@automenzi.ch",
+    "website": "https://www.automenzi.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Montani SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Patric Montani, Gérant & Geschäftsführer",
+    "street": "Gemmistrasse 40",
+    "zip": "3970",
+    "city": "Salgesch-Sierre",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 455 63 62",
+    "email": "info@garage-montani.ch",
+    "website": "https://www.garage-montani.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Mühle-Garage AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Claude Maeder, Geschäftsführer",
+    "street": "Mühlegässli 12",
+    "zip": "3176",
+    "city": "Neuenegg",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 741 20 40",
+    "email": "claude.maeder@muehlegarage.ch",
+    "website": "https://www.muehlegarage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Nicolas Limat SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Yvan Limat, Directeur",
+    "street": "Route du Sécheron 1",
+    "zip": "1740",
+    "city": "Neyruz",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 26 477 90 90",
+    "email": "info@garage-limat.ch",
+    "website": "https://www.garage-limat.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Nuovo Garage Golena SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Maurice Nesurini, Direttore",
+    "street": "Via del Carmagnola 26",
+    "zip": "6517",
+    "city": "Arbedo-Castione",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 825 67 55",
+    "email": "garage@golena.ch",
+    "website": "https://www.golena.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Peter Iselin AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Peter Iselin, Geschäftsführer",
+    "street": "Seestrasse 55",
+    "zip": "8702",
+    "city": "Zollikon",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 391 40 60",
+    "email": "info@garage-iselin.ch",
+    "website": "https://www.garage-iselin.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Pfister AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Cinzia Pfister, Geschäftsleiterin",
+    "street": "San Bastiaun 55",
+    "zip": "7503",
+    "city": "Samedan",
+    "canton": "GR",
+    "country": "CH",
+    "phone": "+41 81 851 05 00",
+    "email": "info@autopfister.ch",
+    "website": "https://www.autopfister.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Raschle GmbH",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Urs Raschle, Inhaber & Geschäftsführer",
+    "street": "Sarganserstrasse 40",
+    "zip": "8880",
+    "city": "Walenstadt",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 81 735 18 80",
+    "email": "info@garage-raschle.ch",
+    "website": "https://www.garage-raschle.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Rex J&N AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Nicolas Truffer, Geschäftsführer & Verkauf",
+    "street": "Kantonsstrasse 34",
+    "zip": "3930",
+    "city": "Visp",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 27 948 10 70",
+    "email": "info@garage-rex.ch",
+    "website": "https://www.garage-rex.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Riet-Garage AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Alex Schwendener, Betriebsleiter",
+    "street": "Gonzenstrasse 7",
+    "zip": "9475",
+    "city": "Sevelen",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 81 750 17 50",
+    "email": "empfang@riga.ch",
+    "website": "https://www.riga.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Ruedi Horat AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Grundstrasse 130",
+    "zip": "6430",
+    "city": "Schwyz",
+    "canton": "SZ",
+    "country": "CH",
+    "phone": "+41 41 819 00 00",
+    "email": "info@ruedihorat.ch",
+    "website": "https://www.ruedihorat.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Römergarage AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Stefan Kistler, Geschäftsführer/Inhaber",
+    "street": "Hauptstrasse 127",
+    "zip": "5070",
+    "city": "Frick",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 865 67 67",
+    "email": "info@roemergarage.ch",
+    "website": "https://www.roemergarage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "S. Flückiger AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Bleienbachstrasse 54",
+    "zip": "4900",
+    "city": "Langenthal",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 62 919 90 80",
+    "email": "info@sfag.ch",
+    "website": "https://www.sfag.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "S. Flückiger AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Huttwilstrasse 58",
+    "zip": "4944",
+    "city": "Auswil",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 62 957 52 52",
+    "email": "contact@sfag.ch",
+    "website": "https://www.sfag.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Schafroth AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Christoph Schafroth, Inhaber & Geschäftsführer",
+    "street": "Huttwilstrasse 5",
+    "zip": "3462",
+    "city": "Weier",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 34 435 12 18",
+    "email": "info@garage-schafroth.ch",
+    "website": "https://www.garage-schafroth.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Scheiweiler Garagen AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Roger Scheiweiler, Geschäftsführer/Inhaber",
+    "street": "Allenwindenstrasse 10",
+    "zip": "8832",
+    "city": "Wollerau",
+    "canton": "SZ",
+    "country": "CH",
+    "phone": "+41 44 787 44 00",
+    "email": "info@scheiweiler.ch",
+    "website": "https://www.scheiweiler.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Schlauri AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Roland Dörig, Inhaber & Geschäftsführer",
+    "street": "Breitenrainstrasse 2",
+    "zip": "8280",
+    "city": "Kreuzlingen",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 71 672 12 72",
+    "email": "info@garage-schlauriag.ch",
+    "website": "https://www.garage-schlauriag.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Schloss-Garage Büchel AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Daniel Büchel, Geschäftsführer",
+    "street": "Rheinstrasse 4",
+    "zip": "9463",
+    "city": "Oberriet",
+    "canton": "SG",
+    "country": "CH",
+    "phone": "+41 71 761 15 33",
+    "email": "daniel.buechel@schlossgarage.ch",
+    "website": "https://www.schlossgarage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Schlossgarage Lampert AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Thomas Lampert, Inhaber und Geschäftsführer",
+    "street": "Zollstrasse 1",
+    "zip": "9490",
+    "city": "Vaduz",
+    "canton": "FL",
+    "country": "LI",
+    "phone": "+423 375 10 10",
+    "email": "info@schlossgarage.li",
+    "website": "https://www.schlossgarage.li",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Schlossgarage Seengen AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Michael Steffen, Geschäftsführer",
+    "street": "Boniswilerstrasse 33",
+    "zip": "5707",
+    "city": "Seengen",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 62 767 50 90",
+    "email": "info@schlossgarage-seengen.ch",
+    "website": "https://www.schlossgarage-seengen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Schmid Sins AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Heinz Schmid, Geschäftsführer",
+    "street": "Eichfeld 2",
+    "zip": "5643",
+    "city": "Sins",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 41 787 16 55",
+    "email": "info@autoschmidsins.ch",
+    "website": "https://www.autoschmidsins.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Schnider GmbH",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Patrick Schnider, Geschäftsinhaber/Geschäftsführer",
+    "street": "Unterdorf 12",
+    "zip": "6170",
+    "city": "Schüpfheim",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 41 484 13 70",
+    "email": "post@autoschnider.ch",
+    "website": "https://www.autoschnider.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Schumacher Söhne AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Manuel Schumacher, Geschäftsführer",
+    "street": "Hauptstrasse 119",
+    "zip": "2575",
+    "city": "Täuffelen",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 32 396 14 93",
+    "email": "info@garage-schumacher.ch",
+    "website": "https://www.garage-schumacher.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Service Garage Margeli GmbH",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Ramon Steiner, Geschäftsführer",
+    "street": "Landstrasse 100",
+    "zip": "3715",
+    "city": "Adelboden",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 33 673 32 90",
+    "email": "info@margeli.ch",
+    "website": "https://www.margeli.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Settelen AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Lorenz Schweizer, Geschäftsleiter/CEO",
+    "street": "Garage - Werkstatt",
+    "zip": "4055",
+    "city": "Basel",
+    "canton": "BS",
+    "country": "CH",
+    "phone": "+41 61 307 38 00",
+    "email": "garage@settelen.ch",
+    "website": "https://www.settelen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Settelen Auto AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Lorenz Schweizer, Geschäftsleiter/CEO",
+    "street": "Türkheimerstrasse 17",
+    "zip": "4055",
+    "city": "Basel",
+    "canton": "BS",
+    "country": "CH",
+    "phone": "+41 61 307 38 00",
+    "email": "garage@settelen.ch",
+    "website": "https://www.settelen.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage St-Christophe Troistorrents SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Stéphanie Défago, Présidente",
+    "street": "route de Troistorrents 55",
+    "zip": "1872",
+    "city": "Troistorrents",
+    "canton": "VS",
+    "country": "CH",
+    "phone": "+41 24 477 18 64",
+    "email": "sdefago@stchristophe.ch",
+    "website": "https://www.stchristophe.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage St-Christophe, Willemin SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Nathalie Willemin-Léchenne, Direction",
+    "street": "Route de Delémont 91",
+    "zip": "2802",
+    "city": "Develier",
+    "canton": "JU",
+    "country": "CH",
+    "phone": "+41 32 421 34 00",
+    "email": "info2802@willemin.ch",
+    "website": "https://www.garage-st-christophe.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Storelli, Sant'Antonio Car SA",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Werner Sigrist, Geschäftsführer",
+    "street": "Via Locarno 15",
+    "zip": "6612",
+    "city": "Ascona",
+    "canton": "TI",
+    "country": "CH",
+    "phone": "+41 91 785 80 60",
+    "email": "info@autostorelli.ch",
+    "website": "https://www.autostorelli.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Südbahngarage Wüst AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Kestenbergstrasse 34",
+    "zip": "5210",
+    "city": "Windisch",
+    "canton": "AG",
+    "country": "CH",
+    "phone": "+41 56 265 10 10",
+    "email": "info@suedbahngarage.ch",
+    "website": "https://www.suedbahngarage.ch",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Auto Tempel AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Kenji Tanaka, Geschäftsführer",
+    "street": "Tempelstrasse 8",
+    "zip": "3608",
+    "city": "Thun",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 33 334 10 60",
+    "email": "info@autotempel.ch",
+    "website": "https://www.autotempel.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Thal-Garage Fuhrer AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Mathias Fuhrer, Geschäftsführer",
+    "street": "Sumiswaldstrasse 29",
+    "zip": "3452",
+    "city": "Grünenmatt",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 34 431 17 53",
+    "email": "info@thal-garage.ch",
+    "website": "https://www.thal-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Thüring & Stalder AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "",
+    "street": "Pfaffnauerstrasse 24",
+    "zip": "6260",
+    "city": "Reiden",
+    "canton": "LU",
+    "country": "CH",
+    "phone": "+41 62 758 21 75",
+    "email": "autocenterreiden@starnet.ch",
+    "website": "",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  },
+  {
+    "company": "Garage Tinguely AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Beat Waeber, Geschäftsführer",
+    "street": "Freiburgstrasse 20",
+    "zip": "3178",
+    "city": "Bösingen",
+    "canton": "FR",
+    "country": "CH",
+    "phone": "+41 31 747 80 31",
+    "email": "garage-tinguely@bluewin.ch",
+    "website": "https://www.garage-tinguely.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Tresch Automobile AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Silvio Tresch, Inhaber",
+    "street": "Ueberlandstrasse 189",
+    "zip": "8600",
+    "city": "Dübendorf",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 821 63 63",
+    "email": "info@tresch-automobile.ch",
+    "website": "https://www.tresch-automobile.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Turbotec GmbH",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Robert Brand, Inhaber",
+    "street": "Seedorferstrasse 48",
+    "zip": "6460",
+    "city": "Altdorf",
+    "canton": "UR",
+    "country": "CH",
+    "phone": "+41 41 872 14 00",
+    "email": "info@turbotec.ch",
+    "website": "https://www.turbotec.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Weinberg-Garage Fiederle AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Stefan Fiederle, Geschäftsführer",
+    "street": "Schaffhauserstrasse 15",
+    "zip": "8525",
+    "city": "Niederneunforn",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 52 745 15 28",
+    "email": "info@fiederle-ag.ch",
+    "website": "https://www.fiederle-ag.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Auto Willi AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Christian Willi, Inhaber/Geschäftsführer",
+    "street": "Industriestrasse 50",
+    "zip": "6074",
+    "city": "Giswil",
+    "canton": "OW",
+    "country": "CH",
+    "phone": "+41 41 676 70 70",
+    "email": "info@autowilli.ch",
+    "website": "https://www.autowilli.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Wirz AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Rolf Gysin, Geschäftsführer",
+    "street": "Wyhlenstrasse 43",
+    "zip": "4133",
+    "city": "Pratteln",
+    "canton": "BL",
+    "country": "CH",
+    "phone": "+41 61 816 94 44",
+    "email": "info-pratteln@garagewirz.ch",
+    "website": "https://www.garagewirz.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Wirz AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Rolf Gysin, Geschäftsführer",
+    "street": "Netzenstrasse 8",
+    "zip": "4450",
+    "city": "Sissach",
+    "canton": "BL",
+    "country": "CH",
+    "phone": "+41 61 975 84 84",
+    "email": "kundendienst@garagewirz.ch",
+    "website": "https://www.garagewirz.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Ybrig Garage",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Pascal Andermatt, Geschäftsführer/Inhaber",
+    "street": "Oberibergerstrasse 2",
+    "zip": "8842",
+    "city": "Unteriberg",
+    "canton": "SZ",
+    "country": "CH",
+    "phone": "+41 55 414 11 87",
+    "email": "info@ybrig-garage.ch",
+    "website": "https://www.ybrig-garage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Zbinden Mauss AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Stefan Aebersold, Geschäftsleitung und Inhaber",
+    "street": "Dorfstrasse 15",
+    "zip": "3205",
+    "city": "Mauss-Gümmenen",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 751 04 47",
+    "email": "info@zbinden-mauss.ch",
+    "website": "https://www.zbinden-mauss.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Zehender Garage AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Sascha Kürsteiner, Geschäftsführer",
+    "street": "Seestrasse 33",
+    "zip": "9326",
+    "city": "Horn",
+    "canton": "TG",
+    "country": "CH",
+    "phone": "+41 71 841 33 67",
+    "email": "zehendergarage@bluewin.ch",
+    "website": "https://www.zehendergarage.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  },
+  {
+    "company": "Garage Zimmermann AG",
+    "brands": [
+      "Toyota"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Lukas Zimmermann, Geschäftsführer",
+    "street": "Seestrasse 109",
+    "zip": "3800",
+    "city": "Unterseen",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 33 822 15 15",
+    "email": "info@garage-zimmermann.ch",
+    "website": "https://www.garage-zimmermann.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 8
+  }
+]

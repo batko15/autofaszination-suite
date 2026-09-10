@@ -1,0 +1,40 @@
+[
+  {
+    "company": "Garage Beispiel AG",
+    "brands": [
+      "Toyota",
+      "Lexus"
+    ],
+    "primaryBrand": "Toyota",
+    "contactPerson": "Frau Beispiel",
+    "street": "Beispielstrasse 1",
+    "zip": "8001",
+    "city": "Zürich",
+    "canton": "ZH",
+    "country": "CH",
+    "phone": "+41 44 000 00 00",
+    "email": "info@garage-beispiel.ch",
+    "website": "https://www.garage-beispiel.ch",
+    "priority": "A",
+    "capacityVehiclesPerMonth": 10
+  },
+  {
+    "company": "Auto Beispiel Bern GmbH",
+    "brands": [
+      "Peugeot",
+      "Opel"
+    ],
+    "primaryBrand": "Peugeot",
+    "contactPerson": "",
+    "street": "Beispielweg 5",
+    "zip": "3011",
+    "city": "Bern",
+    "canton": "BE",
+    "country": "CH",
+    "phone": "+41 31 000 00 00",
+    "email": "",
+    "website": "",
+    "priority": "B",
+    "capacityVehiclesPerMonth": 5
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Corolla Touring Sports",
+    "engine": "1.8 Hybrid (122 PS)",
+    "fuel": "hybrid",
+    "euroNorm": "Euro 6d",
+    "years": "2019-2026",
+    "hpOrig": 122,
+    "nmOrig": 142,
+    "hpTuned": 140,
+    "nmTuned": 166,
+    "fuelSaving": 8,
+    "price": 1290,
+    "productCode": "K",
+    "installMin": 20
+  },
+  {
+    "brand": "Peugeot",
+    "model": "308",
+    "engine": "1.5 BlueHDi (130 PS)",
+    "fuel": "diesel",
+    "euroNorm": "Euro 6d",
+    "years": "2021-2026",
+    "hpOrig": 130,
+    "nmOrig": 300,
+    "hpTuned": 160,
+    "nmTuned": 360,
+    "fuelSaving": 10,
+    "price": 990,
+    "productCode": "DA",
+    "installMin": 15
+  },
+  {
+    "brand": "Opel",
+    "model": "Astra",
+    "engine": "1.2 Turbo (130 PS)",
+    "fuel": "benzin",
+    "euroNorm": "Euro 6d",
+    "years": "2022-2026",
+    "hpOrig": 130,
+    "nmOrig": 230,
+    "hpTuned": 155,
+    "nmTuned": 275,
+    "fuelSaving": 8,
+    "price": 1090,
+    "productCode": "BA",
+    "installMin": 15
+  }
+]
