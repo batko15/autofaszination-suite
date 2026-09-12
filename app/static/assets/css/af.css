@@ -41,11 +41,21 @@
   --mut-2:  #59606E;
 
   /* Marke */
-  --red:      #E2001A;
-  --red-2:    #FF3B52;
-  --red-dark: #A60013;
-  --red-tint: rgba(226, 0, 26, .10);
-  --red-glow: rgba(226, 0, 26, .32);
+  /* ═══ WHITE-LABEL-AKZENTFARBE — diese 5 Werte für ein Rebrand ändern ═══
+     Beispiel Racing-Grün:  --brand:#00A651; --brand-2:#3ED584;
+                            --brand-dark:#006B36; Tint/Glow in rgba(0,166,81,x)  */
+  --brand:      #E2001A;   /* Primär-Akzent (Flächen, aktive Zustände) */
+  --brand-2:    #FF3B52;   /* Heller Akzent (Hover, Fokus, Text) */
+  --brand-dark: #A60013;   /* Dunkler Akzent (Gradient-Ende) */
+  --brand-tint: rgba(226, 0, 26, .10);  /* Hauch Heller Akzent */
+  --brand-glow: rgba(226, 0, 26, .32);  /* Glow-Schatten */
+
+  /* Kompatibilität: alte Namen zeigen auf die Brand-Tokens */
+  --red:      var(--brand);
+  --red-2:    var(--brand-2);
+  --red-dark: var(--brand-dark);
+  --red-tint: var(--brand-tint);
+  --red-glow: var(--brand-glow);
 
   /* Signale */
   --green:    #2FD87C;

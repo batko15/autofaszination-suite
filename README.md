@@ -1,4 +1,4 @@
-# AutoFaszination Performance & B2B Sales Suite — V4.1 «Carbon Cockpit»
+# AutoFaszination Performance & B2B Sales Suite — V5.0 «Carbon Cockpit» White-Label
 
 **Die digitale Mitarbeiter-Plattform für die LET26-Produktlinie im Schweizer Markenhäuser-Netz —
 komplett neu gestaltet als dunkles Premium-Cockpit.**
@@ -14,11 +14,30 @@ und Vertriebs-Cockpit.
 | Preismodell | AF-Garagen-Preisliste CH/DE 2026 (DA / BA / K / GA) |
 | MwSt.-Abrechnung | **8,1 %** separat ausgewiesen, Porto CHF 14.50 |
 | Follow-up-Automatik | Tag 1 / Tag 3 / Tag 7 gem. LET26-Vertriebs-Guide |
-| Design | **V4.1 «Carbon Cockpit»** — Schwarz/Rot/Silber, lokal gebündelte Schriften |
+| Design | **V5.0 «Carbon Cockpit»** — Schwarz/Rot/Silber, lokal gebündelte Schriften |
+| Template | **White-Label-fähig** — siehe `TEMPLATE-GUIDE.md` |
 
 ---
 
-## Was ist neu in V4.1?
+## Was ist neu in V5.0? — White-Label-Template
+
+- **White-Label-Architektur**: die Suite ist jetzt eine wiederverwendbare Vorlage für
+  andere Projekte — Marke, Firmdaten, Login-Texte, Statistiken und Fusszeile liegen
+  zentral in `app/config.py` (Wörterbuch `BRANDING`).
+- **Neuer Endpoint `/api/v1/branding`**: das Frontend lädt Marke, Tagline und Version
+  beim Start dynamisch vom Backend — Browser-Titel, Sidebar-Logo, Login-Headline und
+  Fusszeile folgen automatisch, ohne JS-Anpassung.
+- **Akzentfarbe als Design-Token**: `af.css` besitzt jetzt einen dokumentierten Block
+  `--brand / --brand-2 / --brand-dark / --brand-tint / --brand-glow` — 5 Werte ändern
+  und die komplette Oberfläche (Buttons, Charts, Badges, Glow) wechselt die Farbe.
+- **Cache-Busting v5.0.0** für alle statischen Assets.
+- **`TEMPLATE-GUIDE.md`**: Schritt-für-Schritt-Anleitung (Deutsch), wie die Suite für
+  ein anderes Projekt/Kunden umetikettiert wird — inkl. Empfehlungen zu Workflow,
+  Rebrand-Punkten und ehrlichen Grenzen.
+- Parität: identisches Branding-Modell in der Next.js-Zwillingssuite
+  (`src/config/branding.ts` mit Modul-Registry und `enabled`-Schaltern).
+
+## Was war neu in V4.1?
 
 - **4 neue Module — jetzt 12 statt 8**:
   - **Termine** — Wochenkalender (2 Wochen) für Testfahrten, Einbautermine, Beratungen und

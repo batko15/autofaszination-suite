@@ -7,7 +7,10 @@ window.AFN.views = window.AFN.views || {};
 (function () {
   'use strict';
 
-  const { icons, el } = AFN.ui;
+  const { icons, el, esc } = AFN.ui;
+  const brand = (window.AFN && AFN.brand) || {
+    nameParts: ['Auto', 'Faszination'], version: '5.0.0',
+  };
 
   function render(root) {
     if (!root) return;
@@ -18,8 +21,8 @@ window.AFN.views = window.AFN.views || {};
         <div class="orb orb-1"></div>
         <div class="orb orb-2"></div>
         <div class="inner">
-          <span class="eyebrow"><span class="dot"></span>LET26 Performance Platform</span>
-          <h1>Auto<span class="accent">Faszination</span></h1>
+          <span class="eyebrow"><span class="dot"></span>${esc(brand.login ? brand.login.eyebrow : "LET26 Performance Platform")}</span>
+          <h1>${esc(brand.nameParts[0] || "")}<span class="accent">${esc(brand.nameParts[1] || "")}</span></h1>
           <p class="lead">
             Das Mitarbeiter-Portal für die LET26-Produktlinie: Fahrzeug-Konfigurator,
             Schweizer Offerten mit 8,1&nbsp;% MwSt., B2B-Partner-Routing über 415 Markenhäuser
@@ -41,7 +44,7 @@ window.AFN.views = window.AFN.views || {};
             <div class="card">
               <div class="card-body">
                 <h2>Anmelden</h2>
-                <p class="sub">Mitarbeiter-Portal · AutoFaszination <span class="ver-chip">V4.1</span></p>
+                <p class="sub">Mitarbeiter-Portal · ${esc(brand.nameParts.join(""))} <span class="ver-chip">V${esc(brand.version)}</span></p>
 
                 <div class="form-error" id="loginError">
                   ${icons.alert(16)}<span id="loginErrorText"></span>

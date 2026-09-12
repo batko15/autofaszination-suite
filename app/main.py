@@ -12,9 +12,10 @@ from fastapi.staticfiles import StaticFiles
 
 from .config import APP_NAME, APP_VERSION, STATIC_DIR
 from .database import SessionLocal, init_db
-from .routers import (appointments, auth, customers, dashboard, followups,
-                      importer, invoices, partners, quotes, reports, search,
-                      settings, vehicles, workshop)
+from .routers import (
+    branding, appointments, auth, customers, dashboard, followups,
+    importer, invoices, partners, quotes, reports, search,
+    settings, vehicles, workshop)
 from .seed import seed_if_empty
 
 
@@ -50,7 +51,7 @@ app.add_middleware(
 )
 
 # ─── REST-API v1 ─────────────────────────────────────────────────────────────
-for router in (auth.router, vehicles.router, quotes.router, customers.router,
+for router in (branding.router, auth.router, vehicles.router, quotes.router, customers.router,
                partners.router, followups.router, dashboard.router,
                settings.router, importer.router,
                appointments.router, invoices.router, workshop.router,

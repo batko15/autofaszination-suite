@@ -6,6 +6,21 @@ window.AFN = window.AFN || {};
 (function () {
   'use strict';
 
+  /* ── White-Label-Branding (wird von /api/v1/branding geladen) ──────────
+     Defaults = AutoFaszination; für andere Projekte nur config.py ändern. */
+  const brand = {
+    nameParts: ['Auto', 'Faszination'],
+    tagline: 'Performance & B2B Sales Suite',
+    version: '5.0.0',
+    brandMark: 'AF',
+    legal: 'LET26 · Motor- & Gaspedaloptimierung · Swiss Made',
+    live: 'LET26 aktiv',
+  };
+  AFN.brand = brand;
+  function brandName() {
+    return brand.nameParts.join('');
+  }
+
   const { icons, el, els, html, roleLabel, initials, esc } = AFN.ui;
   const api = AFN.api;
 
@@ -74,10 +89,10 @@ window.AFN = window.AFN || {};
     <div class="shell">
       <aside class="sidebar" id="sidebar">
         <div class="brand">
-          <div class="brand-mark">AF</div>
+          <div class="brand-mark">${esc(brand.brandMark)}</div>
           <div>
-            <div class="brand-name">AUTOFASZINATION</div>
-            <div class="brand-sub">Mitarbeiter-Portal <span class="ver-chip">V4.1</span></div>
+            <div class="brand-name">${esc(brand.nameParts[0].toUpperCase())}${esc((brand.nameParts[1] || "").toUpperCase())}</div>
+            <div class="brand-sub">${esc(brand.tagline)} <span class="ver-chip">V${esc(brand.version)}</span></div>
           </div>
         </div>
         <nav>${navMarkup}</nav>
@@ -90,21 +105,21 @@ window.AFN = window.AFN || {};
             </div>
             <button class="btn-icon" id="btnLogout" title="Abmelden">${icons.logout(16)}</button>
           </div>
-          <p class="legal">LET26 · Motor- &amp; Gaspedaloptimierung<br>Swiss Made · V4.1 «Carbon Cockpit»</p>
+          <p class="legal">${esc(brand.legal)}<br>V${esc(brand.version)} «Carbon Cockpit»</p>
         </div>
       </aside>
 
       <div class="shell-main">
         <header class="topbar">
           <button class="btn-icon hamburger" id="btnMenu" title="Menü">${icons.menu(20)}</button>
-          <div class="crumb"><span>AutoFaszination</span><span class="sep">/</span><b>${esc(crumb ? crumb.label : '')}</b></div>
+          <div class="crumb"><span>${esc(brandName())}</span><span class="sep">/</span><b>${esc(crumb ? crumb.label : '')}</b></div>
           <div class="spacer"></div>
           <div class="topbar-search" id="btnPalette" title="Globale Suche öffnen (Strg + K)">
             <span>${icons.search(15)}</span>
             <span class="ts-label">Suchen …</span>
             <span class="palette-kbd">STRG K</span>
           </div>
-          <span class="live"><span class="dot"></span>LET26 aktiv</span>
+          <span class="live"><span class="dot"></span>${esc(brand.live)}</span>
           <span class="clock" id="topClock"></span>
         </header>
         <main class="shell-content" id="viewRoot"></main>
@@ -364,7 +379,29 @@ window.AFN = window.AFN || {};
 
   /* ── Start ─────────────────────────────────────────────────────────────── */
   if (!location.hash) location.hash = '#/cockpit';
-  render();
+
+  /* White-Label: Branding vom Backend laden, dann App rendern.
+     Fällt bei Netzwerkfehlern auf die eingebauten Defaults zurück. */
+  (async () => {
+    try {
+      const res = await fetch('/api/v1/branding');
+      if (res.ok) {
+        const b = await res.json();
+        if (b.brand) {
+          brand.nameParts = b.brand.nameParts || brand.nameParts;
+          brand.tagline = b.brand.tagline || brand.tagline;
+        }
+        brand.version = b.version || brand.version;
+        if (b.shell) {
+          brand.brandMark = b.shell.brandMark || brand.brandMark;
+          brand.legal = b.shell.legal || brand.legal;
+          brand.live = b.shell.live || brand.live;
+        }
+      }
+    } catch (_) { /* Offline-Default: branding bleibt wie eingebaut */ }
+    document.title = brandName() + ' Suite V' + brand.version + ' — ' + brand.tagline;
+    render();
+  })();
 
   /* Öffentlich machen (z. B. für Login-Refresh) */
   AFN.app = { render, ROUTES, palette };
